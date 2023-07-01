@@ -1,0 +1,2065 @@
+Supplier,Pets,Category,Brand,SKU,Inital_Stock,Received,Shipped,Stock,Active,Paused,Reserved_Autoship_quantity,Autoship_stock_status
+BELINA,dog,Food,Balance,BapBA1388,0.0,22,19,3,2,0,2,Available
+BELINA,dog,Food,Balance,BapBA1360,2.0,14,14,2,2,0,2,Reserve Now
+BELINA,dog,Food,Balance,BapBA1367,2.0,2,3,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA1354,6.0,114,104,16,7,3,10,Available
+BELINA,dog,Food,Balance,BapBA1368,0.0,40,39,1,3,0,3,Reserve Now
+Nestle,dog,Food,Dog Chow,PupCH110,1.0,13,13,1,0,1,1,Reserve Now
+nan,,,nan,InpIT2860,1.0,0,1,0,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD11490,1.0,35,30,6,3,1,4,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD11441,1.0,10,9,2,1,1,2,Reserve Now
+VETIM SA,dog,Food,Prescription Diet,ScpSD31478,1.0,26,22,5,3,0,3,Available
+VETIM SA,cat,Food,Science Diet,ScgSD31583,3.0,5,5,3,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD31579,4.0,21,20,5,6,1,7,Reserve Now
+nan,,,nan,PEpPg3215,1.0,0,1,0,0,0,0,
+nan,,,nan,PEpPg3211,3.0,0,1,2,0,0,0,
+nan,,,nan,PEpPg3210,3.0,0,2,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2347,2.0,9,9,2,1,0,1,Available
+BELINA,cat,Food,Balance,BagBA2372,4.0,15,16,3,2,0,2,Available
+Nestle,dog,Food,Dog Chow,PupCH346,1.0,1,1,1,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH332,-1.0,6,4,1,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH222,0.0,5,4,1,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1796,7.0,140,133,14,17,3,20,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS1323,-1.0,108,97,10,5,3,8,Available
+BELINA,dog,Food,NutriSource,NupNS1331,4.0,14,16,2,1,0,1,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1120,3.0,30,29,4,3,1,4,Reserve Now
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2130,2.0,13,12,3,1,0,1,Available
+Yanyunis,cat,Food,Taste Of the Wild,TagTW2205,0.0,13,9,4,0,2,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3122,2.0,9,9,2,1,0,1,Available
+Yanyunis,cat,Food,PREY,TagPR3158,-1.0,15,12,2,1,2,3,Reserve Now
+BELINA,cat,Food,NutriSource,NugNS3309,5.0,22,25,2,0,3,3,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS3275,0.0,96,86,10,9,4,13,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS2273,4.0,48,49,3,4,0,4,Reserve Now
+Suplidora Royal,cat,Food,Royal Canin,RogRC31270,1.0,10,9,2,1,0,1,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3798,1.0,140,127,14,8,4,12,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3787,1.0,12,11,2,1,2,3,Reserve Now
+Repagro,cat,Higiene,Canada Litter,NOgCL1772,2.0,54,51,5,5,2,7,Reserve Now
+Repagro,cat,Higiene,Canada Litter,NOgCL2768,7.0,26,31,2,2,2,4,Reserve Now
+Repagro,cat,Higiene,Activcat,NOgAC2769,4.0,19,21,2,1,1,2,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDN1164,2.0,26,23,5,2,0,2,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN1161,1.0,34,30,5,4,2,6,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDN1177,2.0,13,11,4,0,4,4,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDN1160,5.0,104,95,14,8,0,8,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN2159,0.0,24,22,2,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDi1186,2.0,11,11,2,1,1,2,Reserve Now
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2116,2.0,7,6,3,1,1,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1145,2.0,30,29,3,2,0,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1147,1.0,8,7,2,1,0,1,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN3170,1.0,3,2,2,0,0,0,
+Yanyunis,dog,Food,PREY,TapPR3153,2.0,4,6,0,0,0,0,
+nan,,,nan,PEpPg3229,2.0,0,2,0,0,0,0,
+nan,,,nan,PEpPg3216,2.0,0,2,0,0,0,0,
+nan,,,nan,PEpPg5218,4.0,0,4,0,0,0,0,
+nan,,,nan,PEpPg5217,2.0,2,4,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3430,5.0,20,24,1,0,0,0,
+Nestle,cat,Food,Cat Chow,PugCH352,4.0,0,4,0,0,0,0,
+Nestle,cat,Food,Cat Chow,PugCH362,2.0,0,0,2,0,0,0,
+Nestle,cat,Food,Cat Chow,PugCH351,2.0,5,5,2,0,0,0,
+nan,,,nan,PupDL5462,3.0,6,9,0,0,0,0,
+Nestle,dog,Food,Dentalife,PupDL5461,1.0,24,21,4,4,0,4,Reserve Now
+nan,,,nan,PupAL556,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Alpo,PupAL564,2.0,12,14,0,0,0,0,
+Nestle,dog,Food,Alpo,PupAL569,-1.0,8,7,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS5332,3.0,81,80,4,6,0,6,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS5334,11.0,59,63,7,2,3,5,Available
+BELINA,dog,Food,NutriSource,NupNS5333,4.0,104,98,10,5,3,8,Available
+BELINA,dog,Food,NutriSource,NupNS5335,5.0,40,40,5,1,2,3,Available
+BELINA,dog,Food,NutriSource,NupNS5336,2.0,35,35,2,2,2,4,Reserve Now
+BELINA,dog,Food,Pure Vita,NupPV5324,4.0,71,67,8,2,0,2,Available
+BELINA,dog,Food,NutriSource,NupNS5276,0.0,26,25,1,1,0,1,Reserve Now
+Mundo Pet,cat,Food,Waldo,WagWD51882,5.0,47,40,12,0,0,0,
+Mundo Pet,dog,Food,Waldo,WapWD51887,2.0,56,48,10,5,1,6,Available
+Mundo Pet,dog,Food,Waldo,WapWD51885,6.0,65,64,7,4,1,5,Available
+Mundo Pet,dog,Food,Waldo,WapWD51886,3.0,51,45,9,1,1,2,Available
+Mundo Pet,dog,Food,Waldo,WapWD51883,4.0,41,38,7,1,0,1,Available
+Mundo Pet,dog,Food,Waldo,WapWD51888,1.0,16,13,4,0,0,0,
+nan,,,nan,WagWD51881,2.0,0,0,2,0,0,0,
+Nestle,cat,Food,Felix,PugFX6105,18.0,78,38,58,0,2,2,Available
+Nestle,cat,Food,Felix,PugFX6106,1.0,107,67,41,6,2,8,Available
+Nestle,cat,Food,Felix,PugFX6109,-10.0,95,64,21,0,0,0,
+Nestle,cat,Food,Felix,PugFX6110,10.0,65,43,32,4,2,6,Available
+Nestle,cat,Food,Felix,PugFX6114,18.0,42,29,31,0,2,2,Available
+nan,,,nan,PugFX6107,6.0,18,17,7,0,0,0,
+nan,,,nan,PugFX6112,11.0,0,9,2,0,0,0,
+Nestle,cat,Food,Felix,PugFX6113,-5.0,46,38,3,4,0,4,Reserve Now
+Repagro,dog,Higiene,MasQPets,MapQP11015,4.0,0,3,1,0,0,0,
+nan,,,nan,MapQP11017,2.0,0,2,0,0,0,0,
+Repagro,cat,Higiene,MasQPets,MagQP11013,3.0,0,3,0,0,0,0,
+Repagro,dog,Higiene,MasQPets,MapQP11019,2.0,0,1,1,0,0,0,
+Repagro,dog,Higiene,MasQPets,MapQP11016,2.0,0,1,1,0,0,0,
+Repagro,dog,Higiene,MasQPets,MapQP11020,2.0,0,2,0,0,0,0,
+Repagro,dog,Higiene,MasQPets,MapQP11012,2.0,0,1,1,0,0,0,
+Repagro,dog,Higiene,MasQPets,MapQP11018,2.0,0,2,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11838,2.0,4,5,1,1,1,2,Reserve Now
+Full Pets,dog,Higiene,Tropiclean,TrTC11843,3.0,3,6,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11841,1.0,1,0,2,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11832,0.0,11,11,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11831,2.0,11,11,2,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK3940,4.0,1,5,0,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK2941,4.0,3,7,0,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK1942,8.0,0,7,1,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK1936,4.0,0,3,1,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK3934,2.0,2,1,3,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK1954,6.0,2,7,1,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK2953,6.0,2,7,1,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK3952,8.0,1,9,0,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK3946,8.0,1,8,1,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK2947,3.0,2,5,0,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK1948,3.0,0,2,1,0,0,0,
+nan,,,nan,DopDG81241,1.0,0,1,0,0,0,0,
+nan,,,nan,DopDG81240,3.0,0,2,1,0,0,0,
+nan,,,nan,DopDG81236,1.0,0,1,0,0,0,0,
+nan,,,nan,SppSU81191,1.0,0,1,0,0,0,0,
+nan,,,nan,DopDG81238,2.0,0,1,1,0,0,0,
+nan,,,nan,DopDG81237,3.0,0,0,3,0,0,0,
+nan,,,nan,ChpCI81247VE,1.0,0,1,0,0,0,0,
+nan,,,nan,ChpCI81248,1.0,0,0,1,0,0,0,
+nan,,,nan,ChpCI81248AN,1.0,0,0,1,0,0,0,
+nan,,,nan,ChpCI81248AZ,1.0,0,0,1,0,0,0,
+nan,,,nan,ChpCI81246,6.0,0,0,6,0,0,0,
+nan,,,nan,ChpCI81243,2.0,0,0,2,0,0,0,
+nan,,,nan,ChpCI81242,2.0,0,0,2,0,0,0,
+nan,,,nan,ChpCI81245,2.0,0,2,0,0,0,0,
+nan,,,nan,ZipZP1464,0.0,0,0,0,0,0,0,
+Woof & Miau,dog,Accessories,Storybook Fiesta collection,ZipZP3561,2.0,0,1,1,0,0,0,
+nan,,,nan,ZipZP3568,4.0,0,3,1,0,0,0,
+nan,,,nan,ZipZP1467,0.0,0,0,0,0,0,0,
+Woof & Miau,dog,Accessories,Nomnomz,ZipZP3595,4.0,0,4,0,0,0,0,
+nan,,,nan,ZipZP3540,2.0,0,2,0,0,0,0,
+Woof & Miau,dog,Accessories,Animal Burrows,ZipZP3510,2.0,0,0,2,0,0,0,
+Repagro,cat,Food,MasQPets,MagQP3740,7.0,6,10,3,0,1,1,Available
+Repagro,dog,Food,MasQPets,MapQP1745,2.0,100,94,8,4,0,4,Available
+Repagro,dog,Food,MasQPets,MapQP2754,8.0,51,52,7,1,1,2,Available
+Repagro,dog,Food,MasQPets,MapQP3733,8.0,35,38,5,2,0,2,Available
+Repagro,dog,Food,MasQPets,MapQP3755,7.0,43,46,4,3,0,3,Available
+Mundo Pet,dog,Accessories,MPets,MPpMP8133Azu,1.0,4,5,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP8133Nar,1.0,6,7,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA3362,1.0,4,4,1,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3748,0.0,49,47,2,2,1,3,Reserve Now
+Repagro,dog,Food,MasQPets,MapQP1747,0.0,16,13,3,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3741,4.0,12,15,1,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3742,0.0,12,7,5,1,0,1,Available
+nan,,,nan,PugFX6111,1.0,23,24,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Nexdgard,NepNX1991,12.0,126,102,36,7,0,7,Available
+Herrera & Elizondo,dog,Pharmacy,Nexdgard,NepNX1995,-4.0,98,79,15,3,2,5,Available
+Herrera & Elizondo,dog,Pharmacy,ArtriTabs,ArpAT11032,3.0,80,74,9,6,1,7,Available
+Herrera & Elizondo,dog,Pharmacy,Nexdgard,NepNX1993,6.0,159,118,47,6,0,6,Available
+Mundo Pet,dog,Accessories,MPets,MPpMP91506,1.0,2,0,3,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP91507,2.0,0,2,0,0,0,0,
+nan,,,nan,MPpMP91509,2.0,0,2,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP91508,2.0,0,1,1,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81330,1.0,4,5,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81331,1.0,2,3,0,0,0,0,
+nan,,,nan,MPpMP81334Na,2.0,2,4,0,0,0,0,
+nan,,,nan,MPpMP81333Az,2.0,2,3,1,0,0,0,
+nan,,,nan,MPpMP11532,2.0,0,2,0,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51536,3.0,5,8,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8383Ros,1.0,0,1,0,0,0,0,
+nan,,,nan,EApEAA1721,1.0,0,1,0,0,0,0,
+nan,,,nan,EApEAA1722,1.0,0,1,0,0,0,0,
+nan,,,nan,MPgMP81893,2.0,0,2,0,0,0,0,
+nan,,,nan,MPgMP81029,2.0,0,1,1,0,0,0,
+nan,,,nan,MPgMP81891,2.0,1,3,0,0,0,0,
+nan,,,nan,MPpMP91502,2.0,2,4,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP91504,2.0,2,3,1,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP91505,2.0,4,5,1,0,0,0,
+nan,,,nan,PapPW91367,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91368,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91369,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91370,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91371,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91372,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91373,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91374,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91376,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW1739,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91377,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW1741,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91379,1.0,0,1,0,0,0,0,
+nan,,,nan,PapPW91380,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91381,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91382,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91383,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91384,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91385,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91386,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91387,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91388,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91389,2.0,0,0,2,0,0,0,
+nan,,,nan,PapPW91390,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91391,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91392,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91393,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91394,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91395,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91396,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91397,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91398,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91399,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91400,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91401,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91402,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91403,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91408,2.0,0,0,2,0,0,0,
+nan,,,nan,PapPW91405,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91406,2.0,0,0,2,0,0,0,
+nan,,,nan,PapPW91407,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91409,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91410,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91411,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91412,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91413,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91414,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91415,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91416,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91417,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91418,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91419,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91783,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91421,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91422,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91423,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91424,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91425,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91426,1.0,0,1,0,0,0,0,
+nan,,,nan,PapPW91427,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91428,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91429,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91430,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91431,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91432,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91434,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91435,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91436,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91437,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91438,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91439,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91440,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91441,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91442,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91443,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91444,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91445,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91446,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91450,1.0,0,1,0,0,0,0,
+nan,,,nan,PapPW91451,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91452,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91447,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91448,1.0,0,0,1,0,0,0,
+nan,,,nan,PapPW91449,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP81892,2.0,2,4,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8373Ros,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8372Ve,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8383Am,1.0,0,1,0,0,0,0,
+nan,,,nan,FlFTA1826,3.0,0,3,0,0,0,0,
+nan,,,nan,RupRW91122,2.0,0,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8374Az,1.0,0,0,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8382Az,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91016Az,2.0,0,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91016Ro,2.0,0,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91017Pl,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91017Ro,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91015Az,2.0,0,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91015Ro,2.0,0,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91014Ro,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP91014Ne,1.0,0,1,0,0,0,0,
+nan,,,nan,PegPL2724,0.0,0,0,0,0,0,0,
+nan,,,nan,FlFTA1825,4.0,0,4,0,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3756,2.0,59,54,7,5,1,6,Available
+BELINA,dog,Food,NutriSource,NupNS1291,1.0,49,45,5,6,0,6,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS1270,-2.0,17,14,1,0,2,2,Reserve Now
+BELINA,cat,Food,NutriSource,NugNS2305,0.0,54,49,5,5,1,6,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS5337,3.0,56,54,5,1,1,2,Available
+BELINA,dog,Food,Balance,BapBA1352,2.0,59,58,3,8,5,13,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS3279,1.0,26,24,3,2,1,3,Reserve Now
+BELINA,dog,Food,Balance,BapBA1369,1.0,16,16,1,2,0,2,Reserve Now
+BELINA,dog,Food,Balance,BapBA1355,3.0,62,49,16,3,0,3,Available
+BELINA,cat,Food,Balance,BagBA2371,0.0,23,21,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD31535,0.0,13,9,4,1,0,1,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2789,1.0,25,26,0,1,0,1,Reserve Now
+Repagro,cat,Higiene,Activcat,NOgAC2770,0.0,18,16,2,0,0,0,
+nan,,,nan,PupCH11,0.0,0,0,0,0,0,0,
+nan,,,nan,PupCH12,0.0,0,0,0,0,0,0,
+nan,,,nan,PupCH15,0.0,1,1,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH334,0.0,10,9,1,0,1,1,Reserve Now
+Nestle,dog,Food,Alpo,PupAL216,0.0,7,6,1,0,0,0,
+nan,,,nan,PupAL17,0.0,0,0,0,0,0,0,
+nan,,,nan,PupAL336,0.0,0,0,0,0,0,0,
+nan,,,nan,PugCH18,0.0,1,1,0,0,0,0,
+Nestle,cat,Food,Cat Chow,PugCH219,-1.0,11,9,1,1,1,2,Reserve Now
+Nestle,cat,Food,Cat Chow,PugCH19,0.0,3,2,1,0,0,0,
+nan,,,nan,PugCH220,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH16,0.0,3,1,2,0,1,1,Available
+nan,,,nan,PupCH333,2.0,1,2,1,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH331,0.0,18,16,2,1,0,1,Available
+nan,,,nan,PupBE329,0.0,0,0,0,0,0,0,
+nan,,,nan,PupBE330,0.0,2,2,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH467,0.0,66,48,18,2,3,5,Available
+Nestle,dog,Food,Dog Chow,PupCH468,0.0,22,16,6,1,0,1,Available
+Nestle,dog,Food,Dog Chow,PupCH466,4.0,39,39,4,3,1,4,Reserve Now
+Nestle,dog,Food,Dog Chow,PupCH684,0.0,6,6,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH685,0.0,33,19,14,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH686,28.0,82,117,-7,7,0,7,Reserve Now
+Nestle,dog,Food,Dog Chow,PupCH687,1.0,33,34,0,1,0,1,Reserve Now
+Nestle,dog,Food,Dog Chow,PupCH688,5.0,126,121,10,5,0,5,Available
+Nestle,dog,Food,Dog Chow,PupCH689,-2.0,126,102,22,5,0,5,Available
+Nestle,dog,Food,Dog Chow,PupCH690,0.0,101,80,21,6,0,6,Available
+Nestle,dog,Food,Dog Chow,PupCH691,2.0,177,167,12,13,0,13,Reserve Now
+Nestle,cat,Food,Fancy Feast,PugFF493,2.0,63,35,30,1,10,11,Available
+Nestle,cat,Food,Fancy Feast,PugFF494,-2.0,183,134,47,23,0,23,Available
+nan,,,nan,PugFF496,1.0,30,23,8,0,0,0,
+Nestle,cat,Food,Fancy Feast,PugFF497,6.0,54,45,15,2,0,2,Available
+nan,,,nan,PugFF498,-6.0,45,39,0,0,0,0,
+nan,,,nan,PugFF4100,2.0,51,53,0,0,0,0,
+nan,,,nan,ZipZP1465,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZP1466,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZP3472,2.0,0,2,0,0,0,0,
+nan,,,nan,ZipZP3592,0.0,0,0,0,0,0,0,
+Woof & Miau,dog,Accessories,Nomnomz,ZipZP3594,1.0,0,1,0,0,0,0,
+nan,,,nan,FlFTA1828,2.0,0,0,2,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3115,0.0,14,9,5,0,2,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1117,0.0,1,1,0,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3118,-1.0,37,33,3,2,0,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2119,0.0,20,16,4,3,0,3,Available
+nan,,,nan,TapTW1121,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2123,-2.0,9,4,3,1,0,1,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1124,1.0,18,14,5,4,2,6,Reserve Now
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3125,-1.0,18,14,3,1,1,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2126,0.0,15,11,4,1,0,1,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1127,1.0,19,15,5,4,0,4,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1128,0.0,7,6,1,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3129,0.0,13,11,2,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1131,0.0,12,7,5,3,0,3,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3132,-1.0,26,22,3,1,1,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2133,0.0,8,5,3,1,0,1,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1134,1.0,14,11,4,1,2,3,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3135,1.0,8,6,3,1,1,2,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2136,2.0,4,4,2,1,0,1,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1137,0.0,11,9,2,1,0,1,Available
+nan,,,nan,TapTW3138,0.0,0,0,0,0,0,0,
+nan,,,nan,TapTW2139,0.0,0,0,0,0,0,0,
+nan,,,nan,TapTW3141,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW2142,0.0,2,2,0,0,0,0,
+nan,,,nan,TapTW1143,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3144,0.0,5,2,3,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW3146,0.0,4,4,0,0,0,0,
+nan,,,nan,TapTW3148,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1149,0.0,5,2,3,0,0,0,
+nan,,,nan,TapTW3150,0.0,0,0,0,0,0,0,
+Yanyunis,cat,Food,Taste Of the Wild,TagTW3204,0.0,23,17,6,1,0,1,Available
+Yanyunis,cat,Food,Taste Of the Wild,TagTW3206,-1.0,24,17,6,0,1,1,Available
+Yanyunis,cat,Food,Taste Of the Wild,TagTW2207,0.0,32,27,5,3,1,4,Available
+Yanyunis,cat,Food,Taste Of the Wild,TagTW3208,1.0,26,23,4,4,0,4,Reserve Now
+Yanyunis,cat,Food,Taste Of the Wild,TagTW2209,0.0,16,11,5,1,0,1,Available
+Yanyunis,dog,Food,PREY,TapPR3151,-1.0,7,4,2,1,0,1,Available
+nan,,,nan,TapPR1152,0.0,0,0,0,0,0,0,
+nan,,,nan,TapPR1154,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,PREY,TapPR3155,0.0,3,3,0,0,0,0,
+Yanyunis,dog,Food,PREY,TapPR1156,0.0,3,2,1,0,0,0,
+nan,,,nan,WHgWK3239,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK6240,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK3242,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Pure Vita,NupPV3263,0.0,13,11,2,2,0,2,Reserve Now
+nan,,,nan,NupPV2262,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Pure Vita,NupPV1261,0.0,11,9,2,2,0,2,Reserve Now
+BELINA,dog,Food,Pure Vita,NupPV3268,0.0,3,2,1,0,0,0,
+nan,,,nan,NupPV2267,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Pure Vita,NupPV1266,0.0,4,3,1,1,0,1,Reserve Now
+BELINA,cat,Food,NutriSource,NugNS2308,0.0,50,47,3,8,0,8,Reserve Now
+BELINA,cat,Food,NutriSource,NugNS3307,0.0,20,18,2,1,0,1,Available
+BELINA,cat,Food,NutriSource,NugNS2306,-1.0,23,19,3,3,0,3,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS3274,0.0,24,21,3,1,0,1,Available
+nan,,,nan,NupNS1272,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2278,0.0,20,16,4,3,0,3,Available
+BELINA,dog,Food,NutriSource,NupNS1277,-1.0,34,28,5,4,0,4,Available
+BELINA,dog,Food,NutriSource,NupNS3285,1.0,37,35,3,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2284,0.0,23,20,3,4,1,5,Reserve Now
+nan,,,nan,NupNS1283,-2.0,2,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3289,-1.0,28,25,2,3,4,7,Reserve Now
+nan,,,nan,NupNS2288,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS1287,1.0,69,65,5,3,1,4,Available
+BELINA,dog,Food,NutriSource,NupNS3293,2.0,28,29,1,1,2,3,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS2292,0.0,16,13,3,1,0,1,Available
+BELINA,dog,Food,NutriSource,NupNS3297,0.0,14,11,3,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2296,1.0,33,30,4,6,1,7,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS1295,-1.0,65,55,9,6,3,9,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS4269,0.0,12,11,1,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3282,0.0,10,8,2,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2281,0.0,9,7,2,1,0,1,Available
+nan,,,nan,NupNS3304,0.0,0,0,0,0,0,0,
+nan,,,nan,NupNS2303,0.0,0,0,0,0,0,0,
+nan,,,nan,NupNS1302,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3301,0.0,8,5,3,1,1,2,Available
+BELINA,dog,Food,NutriSource,NupNS2300,1.0,10,11,0,0,1,1,Reserve Now
+nan,,,nan,NupNS1299,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3318,0.0,14,11,3,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2317,0.0,25,23,2,4,0,4,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS3312,0.0,14,12,2,4,0,4,Reserve Now
+BELINA,dog,Food,NutriSource,NupNS2311,0.0,15,14,1,2,0,2,Reserve Now
+nan,,,nan,NupNS1310,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3315,0.0,7,4,3,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2314,0.0,6,3,3,0,1,1,Available
+nan,,,nan,NupNS1313,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS4319,0.0,18,12,6,0,0,0,
+nan,,,nan,NupNS4320,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK6241,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK6238,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS1298,0.0,17,15,2,1,0,1,Available
+nan,,,nan,WHgWK3243,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK3244,0.0,0,0,0,0,0,0,
+nan,,,nan,WHgWK6245,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH221,0.0,7,7,0,1,0,1,Reserve Now
+Nestle,dog,Food,Dog Chow,PupCH344,0.0,4,3,1,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH343,0.0,6,6,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH345,0.0,10,9,1,1,0,1,Reserve Now
+Nestle,dog,Food,Alpo,PupAL348,0.0,2,1,1,0,0,0,
+Nestle,cat,Food,Cat Chow,PugCH350,0.0,15,13,2,1,0,1,Available
+Nestle,cat,Food,Cat Chow,PugCH349,0.0,10,8,2,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH223,0.0,2,1,1,0,0,0,
+Nestle,dog,Food,Beneful,PupBE215,0.0,14,14,0,3,0,3,Reserve Now
+Nestle,dog,Food,Beneful,PupBE340,0.0,3,2,1,0,0,0,
+nan,,,nan,PupBE341,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg1231,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg2230,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6212,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6221,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg4213,0.0,0,0,0,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3738,3.0,55,52,6,4,0,4,Available
+Repagro,dog,Food,MasQPets,MapQP3739,-1.0,39,32,6,0,0,0,
+nan,,,nan,PEpPg6219,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6220,0.0,0,0,0,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3753,1.0,49,48,2,1,1,2,Reserve Now
+nan,,,nan,PEpPg6222,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6223,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg4224,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6226,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg6227,0.0,0,0,0,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP3736,0.0,48,37,11,3,1,4,Available
+Repagro,dog,Food,MasQPets,MapQP1737,0.0,48,42,6,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP1744,-1.0,26,25,0,0,1,1,Reserve Now
+Repagro,dog,Food,MasQPets,MapQP1746,-3.0,8,4,1,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP1752,-2.0,82,76,4,2,0,2,Available
+Repagro,cat,Higiene,MasQPets,MagQP1757,0.0,13,12,1,2,0,2,Reserve Now
+nan,,,nan,PugFX353,0.0,0,0,0,0,0,0,
+nan,,,nan,PugFX354,0.0,0,0,0,0,0,0,
+nan,,,nan,PugFX355,0.0,0,0,0,0,0,0,
+nan,,,nan,PugPP3456,0.0,1,1,0,0,0,0,
+nan,,,nan,PugPP3457,0.0,2,2,0,0,0,0,
+nan,,,nan,PugPP3458,2.0,3,5,0,0,0,0,
+nan,,,nan,PugFX363,0.0,0,0,0,0,0,0,
+nan,,,nan,PugPP3459,1.0,1,1,1,0,0,0,
+Yanyunis,cat,Food,Diamond Naturals,DigDN3197,-1.0,8,5,2,0,1,1,Available
+Yanyunis,cat,Food,Diamond Naturals,DigDN2198,0.0,5,3,2,0,0,0,
+Yanyunis,cat,Food,Diamond Naturals,DigDN3199,0.0,5,4,1,0,0,0,
+Yanyunis,cat,Food,Diamond Naturals,DigDN2200,0.0,4,3,1,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN3162,0.0,6,4,2,1,0,1,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN2163,0.0,9,9,0,1,0,1,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDN3167,0.0,10,7,3,1,0,1,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN2168,0.0,7,7,0,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN1169,0.0,3,1,2,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN2171,0.0,1,0,1,0,0,0,
+nan,,,nan,DipDN1172,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN3173,0.0,3,1,2,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN2174,0.0,4,2,2,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN1176,0.0,6,5,1,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN1178,0.0,34,30,4,2,2,4,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDi1179,0.0,11,10,1,2,1,3,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDi1180,0.0,3,2,1,1,0,1,Reserve Now
+nan,,,nan,DipDi1181,0.0,0,0,0,0,0,0,
+nan,,,nan,DipDi1182,0.0,0,0,0,0,0,0,
+nan,,,nan,DipDi1183,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDi3184,1.0,13,12,2,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDi2185,0.0,12,9,3,1,0,1,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDi1187,0.0,31,28,3,3,1,4,Reserve Now
+Yanyunis,dog,Food,Diamond Naturals,DipDN2165,0.0,3,2,1,0,0,0,
+Yanyunis,dog,Food,Diamond Naturals,DipDN1166,0.0,13,11,2,2,1,3,Reserve Now
+BELINA,cat,Food,Balance,BagBA3378,0.0,9,7,2,0,0,0,
+BELINA,cat,Food,Balance,BagBA2370,0.0,6,4,2,1,0,1,Available
+BELINA,cat,Food,Balance,BagBA3376,-1.0,5,3,1,0,0,0,
+BELINA,cat,Food,Balance,BagBA3377,2.0,10,9,3,1,0,1,Available
+BELINA,cat,Food,Balance,BagBA3384,0.0,7,5,2,0,0,0,
+BELINA,cat,Food,Balance,BagBA2382,0.0,4,4,0,0,1,1,Reserve Now
+Repagro,cat,Higiene,Canada Litter,NOgCL1767,2.0,66,60,8,7,2,9,Reserve Now
+Repagro,cat,Higiene,Canada Litter,NOgCL2771,-2.0,29,23,4,1,0,1,Available
+nan,,,nan,PugFX6108,-6.0,6,0,0,0,0,0,
+nan,,,nan,BapBA5339,0.0,0,0,0,0,0,0,
+nan,,,nan,BapBA3349,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA2350,2.0,26,23,5,0,2,2,Available
+nan,,,nan,BapBA3348,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA2351,0.0,5,4,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2353,0.0,13,12,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2361,0.0,5,4,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2381,0.0,2,2,0,0,0,0,
+nan,,,nan,BapBA3364,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA2363,0.0,7,6,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2380,0.0,20,20,0,3,0,3,Reserve Now
+BELINA,dog,Food,Balance,BapBA3366,0.0,7,3,4,0,0,0,
+BELINA,dog,Food,Balance,BapBA2365,-1.0,7,3,3,2,1,3,Reserve Now
+BELINA,dog,Food,Balance,BapBA2379,0.0,20,17,3,3,0,3,Reserve Now
+nan,,,nan,BapBA3389,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA2386,0.0,4,3,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2387,0.0,13,11,2,1,1,2,Reserve Now
+Nestle,dog,Food,Dentalife,PupDL5463,-1.0,20,16,3,0,0,0,
+nan,,,nan,BapBA3341,0.0,0,0,0,0,0,0,
+BELINA,dog,Food,Balance,BapBA2340,0.0,7,7,0,1,0,1,Reserve Now
+BELINA,dog,Food,Balance,BapBA2343,0.0,13,11,2,0,0,0,
+BELINA,dog,Food,Balance,BapBA2358,0.0,7,6,1,0,0,0,
+BELINA,dog,Food,Balance,BapBA2359,-1.0,7,5,1,0,0,0,
+nan,,,nan,PupBE338,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Beneful,PupBE327,0.0,3,1,2,0,0,0,
+Nestle,dog,Food,Beneful,PupBE212,0.0,5,3,2,0,0,0,
+nan,,,nan,PupBE339,0.0,0,0,0,0,0,0,
+nan,,,nan,PupBE328,-1.0,1,0,0,0,0,0,
+Nestle,dog,Food,Beneful,PupBE213,0.0,14,11,3,1,1,2,Available
+nan,,,nan,PupBE13,0.0,2,2,0,0,0,0,
+nan,,,nan,PugFF4102,6.0,12,18,0,0,0,0,
+nan,,,nan,PugFF4104,-8.0,15,7,0,0,0,0,
+nan,,,nan,PugFF4103,-10.0,27,5,12,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3425,1.0,20,20,1,3,1,4,Reserve Now
+Nestle,dog,Food,Pro Plan,PupPP3427,-2.0,10,7,1,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP1408,0.0,9,7,2,2,0,2,Reserve Now
+nan,,,nan,PupPP3433,0.0,1,0,1,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3429,0.0,10,7,3,1,0,1,Available
+Nestle,dog,Food,Pro Plan,PupPP2419,2.0,15,15,2,3,0,3,Reserve Now
+Nestle,dog,Food,Pro Plan,PupPP1405,-1.0,21,18,2,2,0,2,Reserve Now
+nan,,,nan,PupPP1413,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP1406,2.0,35,31,6,7,0,7,Reserve Now
+Nestle,dog,Food,Pro Plan,PupPP2422,0.0,35,31,4,3,0,3,Available
+Nestle,dog,Food,Pro Plan,PupPP2421,-1.0,24,18,5,2,0,2,Available
+Nestle,dog,Food,Pro Plan,PupPP3438,1.0,16,12,5,1,0,1,Available
+nan,,,nan,PupPP1414,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP1407,1.0,33,29,5,4,0,4,Available
+Nestle,dog,Food,Pro Plan,PupPP1409,0.0,22,14,8,2,2,4,Available
+Nestle,dog,Food,Pro Plan,PupPP3434,0.0,4,3,1,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP1410,3.0,42,39,6,4,1,5,Available
+Nestle,dog,Food,Pro Plan,PupPP3439,-2.0,7,1,4,1,0,1,Available
+nan,,,nan,PupPP3431,0.0,1,1,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP1411,-1.0,18,16,1,2,0,2,Reserve Now
+Nestle,dog,Food,Pro Plan,PupPP1412,0.0,8,6,2,1,1,2,Reserve Now
+nan,,,nan,PupPP2420,-2.0,3,1,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3428,1.0,11,9,3,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP2418,1.0,12,8,5,0,1,1,Available
+Nestle,dog,Food,Pro Plan,PupPP3437,1.0,9,7,3,0,0,0,
+nan,,,nan,PupPP3426,-1.0,1,0,0,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2785,0.0,9,5,4,2,0,2,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3779,0.0,21,15,6,0,0,0,
+nan,,,nan,1sgFC2778,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3776,0.0,6,1,5,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2774,1.0,4,3,2,0,1,1,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3783,0.0,15,13,2,0,1,1,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2781,0.0,20,16,4,3,0,3,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3793,0.0,8,3,5,1,1,2,Available
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2792,-1.0,11,8,2,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC3790,0.0,31,28,3,2,0,2,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3820,0.0,18,13,5,4,0,4,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1818,0.0,7,4,3,1,0,1,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3805,0.0,10,6,4,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1803,0.0,35,33,2,4,0,4,Reserve Now
+nan,,,nan,1spFC2800,0.0,0,0,0,0,0,0,
+nan,,,nan,1spFC1799,0.0,1,1,0,0,0,0,
+nan,,,nan,PugTC526,0.0,0,0,0,0,0,0,
+nan,,,nan,PugTC518,0.0,0,0,0,0,0,0,
+nan,,,nan,PugTC525,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3914,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2859,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2857,0.0,0,0,0,0,0,0,
+Provetcre,dog,Food,Instinct,InpIT3915,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3916,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2861,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3913,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2858,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2855,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3902,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2866,0.0,1,1,0,0,0,0,
+nan,,,nan,InpIT3918,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2863,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2846,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3917,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2869,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2862,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3905,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2851,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2852,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT3907,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2854,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT3921,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT3923,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT3922,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT2868,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT3928,0.0,0,0,0,0,0,0,
+nan,,,nan,IngIT2870,0.0,0,0,0,0,0,0,
+nan,,,nan,InpIT2850,0.0,0,0,0,0,0,0,
+nan,,,nan,DrpDZ11021,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Buddy Tabs,BupBT11022,0.0,14,12,2,1,0,1,Available
+Herrera & Elizondo,dog,Pharmacy,Buddy Tabs,BupBT11024,0.0,8,6,2,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Buddy Tabs,BupBT11023,0.0,8,3,5,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,KittyAid,KigKA11026,0.0,3,2,1,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,KittyAid,KigKA11025,0.0,4,1,3,1,0,1,Available
+Herrera & Elizondo,cat,Pharmacy,KittyAid,KigKA11027,0.0,12,9,3,1,0,1,Available
+Herrera & Elizondo,cat,Pharmacy,QualiVet,QugQV11028,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,QualiVet,QupQV11029,0.0,2,1,1,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,QualiVet,QupQV11030,0.0,3,3,0,0,0,0,
+nan,,,nan,QupQV11031,0.0,0,0,0,0,0,0,
+OKAP,dog,Accessories,OKAP,OKpOK2935,5.0,3,8,0,0,0,0,
+PetAppetit,dog,Food,PetAppetit,PACK1P,2.0,1,3,0,0,2,2,Reserve Now
+PetAppetit,dog,Food,PetAppetit,PACK1F,3.0,0,3,0,0,0,0,
+PetAppetit,dog,Food,PetAppetit,PACKP1P,4.0,0,4,0,0,0,0,
+PetAppetit,dog,Food,PetAppetit,PACKP1F,3.0,0,3,0,0,0,0,
+PetAppetit,dog,Food,PetAppetit,PACK4M,2.0,0,2,0,0,0,0,
+PetAppetit,dog,Food,PetAppetit,PACK4MF,0.0,0,0,0,0,0,0,
+nan,,,nan,VipBL11033,0.0,0,0,0,0,0,0,
+PetAppetit,cat,Food,PetAppetit,PACK2P,1.0,0,1,0,0,0,0,
+PetAppetit,cat,Food,PetAppetit,PACK2A,1.0,0,1,0,0,0,0,
+nan,,,nan,PEpPg1234,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBG11038,2.0,0,2,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBG11034,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBG11035,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBG11036,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBG11037,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Nexdgard,NepNX1989,0.0,48,23,25,3,0,3,Available
+nan,,,nan,RupRW81194,0.0,1,1,0,0,0,0,
+nan,,,nan,RupRW81198,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW81199,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRWA1215,0.0,0,0,0,0,0,0,
+nan,,,nan,DopDG81239,0.0,0,0,0,0,0,0,
+nan,,,nan,ChpCI81244,0.0,0,0,0,0,0,0,
+nan,,,nan,ChpCI81247AN,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31329,0.0,0,0,0,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC31327,0.0,1,0,1,0,0,0,
+nan,,,nan,RopRC21328,0.0,0,0,0,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC31326,0.0,6,3,3,0,1,1,Available
+Suplidora Royal,dog,Food,Royal Canin,RopRC31390,0.0,4,4,0,0,1,1,Reserve Now
+nan,,,nan,RopRC31323,0.0,2,0,2,0,0,0,
+nan,,,nan,RopRC31324,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31322,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31316,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31317,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31385,0.0,0,0,0,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC31386,0.0,12,10,2,1,1,2,Reserve Now
+nan,,,nan,RupRW91120,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91128,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91136,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91145,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91153,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31301,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC21302,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91121,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91129,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91146,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91154,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91130,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91138,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91147,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91155,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31430,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31431,0.0,0,0,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31345,0.0,1,1,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC21361,0.0,10,9,1,0,0,0,
+nan,,,nan,RogRC31339,0.0,0,0,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31340,1.0,1,2,0,1,0,1,Reserve Now
+nan,,,nan,RogRC31331,0.0,0,0,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31375,0.0,7,7,0,0,0,0,
+nan,,,nan,RogRC61367,0.0,0,0,0,0,0,0,
+nan,,,nan,RogRC61412,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC61403,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC61402,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC21303,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31330,0.0,0,0,0,0,0,0,
+nan,,,nan,RogRC21362,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91144,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91152,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91124,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91132,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91140,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91148,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91156,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91125,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91133,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91141,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91149,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91157,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91126,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91134,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91142,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91150,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91158,0.0,0,0,0,0,0,0,
+nan,,,nan,RupRW91137,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31406,0.0,0,0,0,0,0,0,
+nan,,,nan,RopRC31325,0.0,0,0,0,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD31576,0.0,16,6,10,1,0,1,Available
+VETIM SA,cat,Food,Science Diet,ScgSD31577,0.0,27,22,5,1,0,1,Available
+VETIM SA,cat,Food,Science Diet,ScgSD31578,-2.0,15,10,3,1,0,1,Available
+VETIM SA,cat,Food,Science Diet,ScgSD31584,0.0,6,5,1,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD31588,0.0,9,7,2,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD31589,0.0,3,2,1,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD31518,0.0,23,14,9,2,0,2,Available
+VETIM SA,dog,Food,Science Diet,ScpSD21519,0.0,23,20,3,1,1,2,Available
+VETIM SA,dog,Food,Science Diet,ScpSD31527,-1.0,27,23,3,2,1,3,Reserve Now
+VETIM SA,dog,Food,Science Diet,ScpSD21528,0.0,42,34,8,4,1,5,Available
+VETIM SA,dog,Food,Science Diet,ScpSD21536,2.0,4,3,3,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD31554,0.0,21,17,4,1,0,1,Available
+VETIM SA,dog,Food,Science Diet,ScpSD21555,1.0,14,12,3,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD31525,0.0,20,17,3,2,0,2,Available
+nan,,,nan,PACK2M,22.0,0,22,0,0,0,0,
+nan,,,nan,Packtobi001,0.0,0,0,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31432,0.0,11,7,4,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31433,0.0,2,2,0,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD31439,0.0,50,41,9,4,0,4,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD31456,0.0,7,5,2,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD21457,1.0,17,11,7,1,0,1,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD31463,0.0,13,10,3,1,0,1,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD11465,-1.0,8,5,2,2,0,2,Reserve Now
+VETIM SA,dog,Food,Prescription Diet,ScpSD21467,-1.0,13,7,5,2,0,2,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD31470,0.0,18,12,6,2,0,2,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD11472,0.0,13,9,4,1,1,2,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD11480,0.0,41,34,7,3,0,3,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD31488,0.0,14,10,4,2,0,2,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31494,0.0,77,71,6,7,1,8,Reserve Now
+VETIM SA,cat,Food,Prescription Diet,ScgSD31495,1.0,37,27,11,4,2,6,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31496,4.0,28,28,4,3,0,3,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31498,0.0,14,9,5,2,0,2,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31500,0.0,16,12,4,2,0,2,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31501,0.0,9,6,3,1,0,1,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD31502,0.0,6,4,2,0,0,0,
+VETIM SA,cat,Food,Prescription Diet,ScgSD31504,0.0,11,9,2,2,0,2,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31680,0.0,19,15,4,2,0,2,Available
+Virbac,dog,Food,Virbac,VipVC21681,0.0,11,8,3,3,0,3,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31692,0.0,4,0,4,0,0,0,
+Virbac,dog,Food,Virbac,VipVC11693,0.0,13,11,2,0,0,0,
+Virbac,cat,Food,Virbac,VigVC31726,1.0,11,9,3,0,1,1,Available
+Virbac,cat,Food,Virbac,VigVC31727,0.0,16,11,5,1,0,1,Available
+nan,,,nan,PapPW91404,0.0,0,0,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11829,-1.0,3,1,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11830,0.0,6,6,0,0,0,0,
+Full Pets,cat,Higiene,Tropiclean,TrTC11833,0.0,6,4,2,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81860,0.0,2,0,2,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81861,0.0,1,0,1,0,0,0,
+nan,,,nan,SnSZ81862,0.0,1,1,0,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81863,0.0,2,1,1,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81864,0.0,1,0,1,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81865,0.0,1,0,1,0,0,0,
+nan,,,nan,SnSZ81866,0.0,1,1,0,0,0,0,
+nan,,,nan,SnSZ81867,0.0,1,0,1,0,0,0,
+nan,,,nan,SnSZ81868,0.0,1,1,0,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81869,0.0,1,0,1,0,0,0,
+Full Pets,dog,Accessories,Snug Arooz,SnSZ81870,0.0,2,2,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11834,0.0,4,4,0,1,0,1,Reserve Now
+Full Pets,dog,Higiene,Tropiclean,TrTC11835,-1.0,6,4,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11836,0.0,6,5,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11837,1.0,9,9,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11839,0.0,6,6,0,1,0,1,Reserve Now
+Full Pets,dog,Higiene,Tropiclean,TrTC11840,0.0,4,3,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11842,0.0,2,1,1,0,0,0,
+Full Pets,dog and cat,Higiene,Tropiclean,TrTC11844,0.0,17,14,3,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11846,0.0,3,2,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11850,0.0,4,3,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11851,0.0,5,4,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11852,0.0,3,2,1,0,0,0,
+Full Pets,dog,Higiene,Urine Off,UrUO11853,0.0,8,6,2,0,0,0,
+Full Pets,dog,Higiene,Urine Off,UrUO11854,0.0,3,3,0,0,0,0,
+Full Pets,cat,Higiene,Urine Off,UrUO11855,-1.0,5,3,1,0,0,0,
+Full Pets,cat,Higiene,Urine Off,UrUO11856,1.0,7,6,2,0,0,0,
+Full Pets,dog,Higiene,Urine Off,UrUO11857,0.0,2,1,1,0,0,0,
+Full Pets,dog,Higiene,Urine Off,UrUO11858,0.0,2,1,1,0,0,0,
+Full Pets,cat,Higiene,Tropiclean,TrTC11845,0.0,10,8,2,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11849,0.0,5,4,1,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11847,0.0,3,3,0,0,0,0,
+Virbac,dog,Food,Virbac,VipVC31707,0.0,16,12,4,1,0,1,Available
+Virbac,dog,Food,Virbac,VipVC11708,0.0,6,4,2,0,0,0,
+nan,,,nan,PapPW91433,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11934,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11935,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11933,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11936,0.0,0,0,0,0,0,0,
+nan,,,nan,WapWD51884,0.0,4,4,0,0,0,0,
+Full Pets,dog,Higiene,Tropiclean,TrTC11848,0.0,3,1,2,1,0,1,Available
+nan,,,nan,MPpMP11522,0.0,2,2,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP11523,0.0,2,2,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP11524,0.0,3,3,0,0,0,0,
+nan,,,nan,MPpMP11525,2.0,2,4,0,0,0,0,
+nan,,,nan,MPpMP11526,0.0,1,1,0,0,0,0,
+nan,,,nan,MPpMP11527,0.0,0,0,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81528,0.0,6,5,1,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51535,-1.0,7,6,0,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51537,-2.0,4,2,0,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51538,-2.0,4,1,1,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51533,3.0,2,3,2,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51534,1.0,2,2,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11515,0.0,3,1,2,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP911,0.0,8,6,2,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11516,0.0,1,0,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11517,0.0,3,1,2,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11518,0.0,3,2,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11519,1.0,2,3,0,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11520,0.0,3,2,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11521,0.0,2,0,2,0,0,0,
+nan,,,nan,MPpMP11530,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11531,0.0,0,0,0,0,0,0,
+nan,,,nan,MPpMP11529,0.0,0,0,0,0,0,0,
+nan,,,nan,MPgMP9374,0.0,1,1,0,0,0,0,
+nan,,,nan,MPgMP9375,0.0,0,0,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP5440,0.0,2,1,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP5441,-1.0,2,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP5442,1.0,2,2,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP5443,0.0,5,4,1,0,0,0,
+nan,,,nan,EApPlacaHDo,0.0,0,0,0,0,0,0,
+nan,,,nan,EApPlacaHNe,0.0,1,1,0,0,0,0,
+nan,,,nan,EApPlacaHRo,0.0,0,0,0,0,0,0,
+nan,,,nan,EApPlacaHCa,0.0,0,0,0,0,0,0,
+nan,,,nan,EApPlacaHMo,1.0,0,1,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP5708,0.0,4,3,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP1710,0.0,3,2,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP1711,0.0,1,1,0,0,0,0,
+Mundo Pet,cat,Higiene,MPets,MPgMP1712,0.0,3,2,1,0,0,0,
+nan,,,nan,MPpMP91510,0.0,0,0,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81332Nar,0.0,2,1,1,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81332Azu,0.0,2,0,2,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81332Mo,0.0,4,2,2,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP81332Ver,0.0,2,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8384Ce,0.0,2,1,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8383Ro,0.0,2,1,1,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8377Am,0.0,0,0,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8375Mo,0.0,2,0,2,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8376Ro,1.0,1,2,0,0,0,0,
+Mundo Pet,cat,Accessories,MPets,MPgMP8373Ver,0.0,1,1,0,0,0,0,
+nan,,,nan,PugFF495,6.0,27,23,10,0,0,0,
+Nestle,cat,Food,Fancy Feast,PugFF499,2.0,15,16,1,0,0,0,
+nan,,,nan,PEpPg4214,0.0,0,0,0,0,0,0,
+nan,,,nan,PEpPg4225,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3435,1.0,6,6,1,0,0,0,
+nan,,,nan,BapBA3356,0.0,0,0,0,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP3436,-1.0,10,8,1,1,1,2,Reserve Now
+BELINA,dog,Food,Balance,BapBA1385,1.0,51,48,4,7,2,9,Reserve Now
+Mundo Pet,dog,Higiene,MPets,MPpMP11712,2.0,8,10,0,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP11713,3.0,63,63,3,4,0,4,Reserve Now
+Mundo Pet,dog,Food,Natural Wild,NapNW51714,2.0,8,10,0,0,0,0,
+Mundo Pet,dog,Food,Natural Wild,NapNW51715,2.0,11,13,0,0,1,1,Reserve Now
+Mundo Pet,dog,Accessories,MPets,MPpMPA1717,1.0,12,11,2,0,0,0,
+nan,,,nan,FlpEA51718,2.0,0,2,0,0,0,0,
+nan,,,nan,FlpEA51719,2.0,0,2,0,0,0,0,
+nan,,,nan,FlpEA51720,2.0,0,2,0,0,0,0,
+nan,,,nan,FlFT81824,3.0,2,5,0,0,0,0,
+nan,,,nan,FlFTA1827,2.0,0,1,1,0,0,0,
+nan,,,nan,ChpClA1723,2.0,0,2,0,0,0,0,
+nan,,,nan,ChpClA1724,1.0,0,1,0,0,0,0,
+nan,,,nan,ChpClA1725,1.0,0,0,1,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP1731,3.0,48,51,0,3,0,3,Reserve Now
+Mundo Pet,dog,Food,Natural Wild,NapNW51716,3.0,9,12,0,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD11698,12.0,0,11,1,1,1,2,Reserve Now
+nan,,,nan,CapCD11699,4.0,0,2,2,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD11700,11.0,0,11,0,0,0,0,
+Cat & Dog Company,cat,Higiene,Cat & Dog Company,CagCD11701,5.0,0,4,1,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD11702,5.0,0,5,0,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD11703,4.0,0,4,0,0,0,0,
+nan,,,nan,ZepZDA1727,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1728,2.0,0,0,2,0,0,0,
+nan,,,nan,ZepZDA1729,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1730,2.0,1,2,1,0,0,0,
+nan,,,nan,ZepZDA1731,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1732,2.0,0,1,1,0,0,0,
+nan,,,nan,ZepZDA1733,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1734,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1735,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1736,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1737,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1738,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1739,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1740,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1741,1.0,0,0,1,0,0,0,
+nan,,,nan,ZegZCA1742,2.0,0,2,0,0,0,0,
+nan,,,nan,ZegZCA1743,1.0,1,2,0,0,0,0,
+nan,,,nan,ZepZDA1744,0.0,3,1,2,0,0,0,
+nan,,,nan,ZepZDA1745,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1746,2.0,3,3,2,0,0,0,
+nan,,,nan,ZepZDA1747,2.0,2,2,2,0,0,0,
+nan,,,nan,ZepZDA1748,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1749,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1750,1.0,1,1,1,0,0,0,
+nan,,,nan,ZepZDA1751,0.0,2,0,2,0,0,0,
+nan,,,nan,ZepZDA1752,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1753,2.0,0,1,1,0,0,0,
+nan,,,nan,ZepZDA1754,1.0,1,1,1,0,0,0,
+nan,,,nan,ZegZCA1755,1.0,1,2,0,0,0,0,
+nan,,,nan,ZepZDA1756,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1757,2.0,2,2,2,0,0,0,
+nan,,,nan,ZepZDA1758,1.0,2,1,2,0,0,0,
+nan,,,nan,ZepZDA1759,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1760,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1761,2.0,0,0,2,0,0,0,
+nan,,,nan,ZepZDA1762,2.0,0,2,0,0,0,0,
+nan,,,nan,ZepZDA1763,1.0,2,1,2,0,0,0,
+nan,,,nan,ZepZDA1764,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1765,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1766,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1767,1.0,0,1,0,0,0,0,
+nan,,,nan,ZepZDA1768,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1769,3.0,0,0,3,0,0,0,
+nan,,,nan,ZepZDA1770,1.0,2,2,1,0,0,0,
+nan,,,nan,ZegZDA1771,2.0,0,0,2,0,0,0,
+nan,,,nan,ZepZDA1772,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1773,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1774,1.0,2,1,2,0,0,0,
+nan,,,nan,ZepZDA1775,1.0,0,0,1,0,0,0,
+nan,,,nan,ZepZDA1776,0.0,0,0,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1777,1.0,10,11,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1778,2.0,6,8,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1779,2.0,8,8,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1780,2.0,9,10,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1781,2.0,6,8,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1782,6.0,0,1,5,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1783,6.0,0,1,5,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1784,7.0,0,5,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1785,7.0,0,1,6,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1786,2.0,10,11,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1787,1.0,5,4,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1788,1.0,2,2,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1789,2.0,3,3,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1790,2.0,3,4,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1791,2.0,14,14,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1792,1.0,1,2,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1793,1.0,0,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1794,2.0,2,4,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1795,2.0,0,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1796,8.0,0,7,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZDA1797,5.0,2,7,0,0,0,0,
+TechnoVet,dog,Food,Petlife,PepPEA1799,0.0,4,1,3,0,0,0,
+nan,,,nan,PepPEA1800,0.0,12,4,8,0,0,0,
+nan,,,nan,PepPEA1801,0.0,4,4,0,0,0,0,
+nan,,,nan,PepPEA1802,0.0,4,4,0,0,0,0,
+nan,,,nan,PepPEA1803,0.0,4,4,0,0,0,0,
+nan,,,nan,PepPEA1804,0.0,4,4,0,0,0,0,
+nan,,,nan,PepPEA1805,2.0,13,15,0,0,0,0,
+TechnoVet,dog,Food,Petlife,PepPEA1806,0.0,4,0,4,0,0,0,
+nan,,,nan,PepPEA1807,4.0,32,30,6,0,0,0,
+TechnoVet,dog,Food,Petlife,PepPEA1808,0.0,30,12,18,0,0,0,
+TechnoVet,dog,Food,Petlife,PepPEA1809,0.0,30,17,13,4,0,4,Available
+TechnoVet,dog,Food,Petilicious,PepPSA1810,12.0,68,76,4,0,10,10,Reserve Now
+TechnoVet,dog,Food,Petilicious,PepPSA1811,4.0,94,96,2,0,0,0,
+TechnoVet,cat,Food,Petilicious,PepPSA1812,17.0,42,39,20,13,0,13,Available
+TechnoVet,dog,Food,Petilicious,PepPSA1813,-1.0,30,23,6,1,0,1,Available
+Mundo Pet,dog,Food,Old Prince,OlpOPA1814,2.0,12,11,3,2,0,2,Available
+Mundo Pet,dog,Food,Old Prince,OlpOPA1815,2.0,23,21,4,2,0,2,Available
+nan,,,nan,OlpOPA1816,0.0,0,0,0,0,0,0,
+Mundo Pet,dog,Food,Old Prince,OlpOPA1817,1.0,8,6,3,1,0,1,Available
+Mundo Pet,dog,Food,Old Prince,OlpOPA1818,1.0,20,17,4,2,0,2,Available
+Mundo Pet,dog,Food,Old Prince,OlpOPA1819,2.0,52,49,5,2,0,2,Available
+Nestle,cat,Food,Felix,PugFX473,-3.0,82,67,12,17,0,17,Reserve Now
+Nestle,cat,Food,Felix,PugFX476,0.0,63,59,4,14,0,14,Reserve Now
+Nestle,cat,Food,Felix,PugFX477,5.0,57,62,0,13,0,13,Reserve Now
+nan,,,nan,CoLiOv1,0.0,0,0,0,0,0,0,
+nan,,,nan,CoLiOv2,0.0,0,0,0,0,0,0,
+nan,,,nan,CoLiOv3,0.0,0,0,0,0,0,0,
+nan,,,nan,CoLiOv4,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiOv5,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiMe6,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiMe7,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiTr8,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiPr9,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiBr10,0.0,0,0,0,0,0,0,
+nan,,,nan,coLiBr11,0.0,0,0,0,0,0,0,
+nan,,,nan,coliCi12,0.0,0,0,0,0,0,0,
+nan,,,nan,coliKe13,0.0,0,0,0,0,0,0,
+nan,,,nan,coliFl14,0.0,0,0,0,0,0,0,
+nan,,,nan,coliCl15,0.0,0,0,0,0,0,0,
+nan,,,nan,coliMe16,0.0,0,0,0,0,0,0,
+nan,,,nan,coliLo17,0.0,0,0,0,0,0,0,
+nan,,,nan,coliTi18,0.0,0,0,0,0,0,0,
+nan,,,nan,coliTi19,0.0,0,0,0,0,0,0,
+nan,,,nan,coliDo20,0.0,0,0,0,0,0,0,
+nan,,,nan,coliCi21,0.0,0,0,0,0,0,0,
+nan,,,nan,coliCi22,0.0,0,0,0,0,0,0,
+nan,,,nan,cocame23,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaLo24,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaPr25,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaPr26,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaAl27,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaan28,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaCe29,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaDo30,,0,0,0,0,0,0,
+nan,,,nan,cocaLi31,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaLi32,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaCr33,0.0,0,0,0,0,0,0,
+nan,,,nan,cocaOm34,0.0,0,0,0,0,0,0,
+nan,,,nan,cozori35,0.0,0,0,0,0,0,0,
+nan,,,nan,cozori36,0.0,0,0,0,0,0,0,
+nan,,,nan,cozoAp37,0.0,0,0,0,0,0,0,
+nan,,,nan,cozoAp38,0.0,0,0,0,0,0,0,
+nan,,,nan,cozoAp39,0.0,0,0,0,0,0,0,
+nan,,,nan,cozosi40,0.0,0,0,0,0,0,0,
+nan,,,nan,cozosi41,0.0,0,0,0,0,0,0,
+nan,,,nan,cozosi42,0.0,0,0,0,0,0,0,
+nan,,,nan,cozosi43,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,BasicFarma,heBaBa44,0.0,22,17,5,0,0,0,
+Herrera & Elizondo,two,Pharmacy,zoofarma,hezoNe45,0.0,6,5,1,0,0,0,
+Herrera & Elizondo,two,Pharmacy,zoofarma,hezoLa46,0.0,2,0,2,0,0,0,
+nan,,,nan,hezoNe47,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,zoofarma,hezoNe48,0.0,6,5,1,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,zoofarma,hezoHe49,0.0,7,5,2,0,0,0,
+nan,,,nan,hezoHe50,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,zoofarma,hezoEn51,0.0,24,20,4,3,0,3,Available
+nan,,,nan,hezoEn52,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,zoofarma,hezoHe53,0.0,3,2,1,0,0,0,
+nan,,,nan,hezoHe54,0.0,0,0,0,0,0,0,
+nan,,,nan,hezoHe55,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,zoofarma,hezoOm56,0.0,9,5,4,0,0,0,
+nan,,,nan,hezoOm57,0.0,0,0,0,0,0,0,
+nan,,,nan,heAlDo58,0.0,100,50,50,0,0,0,
+nan,,,nan,heMeSt59,0.0,0,0,0,0,0,0,
+nan,,,nan,heMeSt60,0.0,0,0,0,0,0,0,
+nan,,,nan,heMeSt61,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCe62,0.0,2,2,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCe63,0.0,20,0,20,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCe64,0.0,1,0,1,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCe65,0.0,10,0,10,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnPr66,0.0,16,15,1,2,0,2,Reserve Now
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnPr67,0.0,30,12,18,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnPr68,0.0,7,5,2,1,0,1,Available
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnPr69,0.0,20,20,0,0,0,0,
+nan,,,nan,heUnKe70,0.0,0,0,0,0,0,0,
+nan,,,nan,heUnGr71,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnGr72,0.0,2,0,2,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heunNo73,0.0,4,3,1,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,HeunCl74,0.0,4,3,1,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heunUn75,0.0,2,1,1,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heunUn76,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heunUn77,0.0,120,95,25,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Merial,heMeHe78,15.0,34,38,11,4,0,4,Available
+Herrera & Elizondo,dog,Pharmacy,Merial,heMeHe79,21.0,11,33,-1,4,0,4,Reserve Now
+Herrera & Elizondo,dog,Pharmacy,Merial,heMeHe80,15.0,9,20,4,1,0,1,Available
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnSa81,0.0,6,3,3,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,Boehringer Ingelheim,heBoBr82,0.0,7,5,2,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,Boehringer Ingelheim,heBoBr83,0.0,7,7,0,0,0,0,
+nan,,,nan,heDFTa84,0.0,0,0,0,0,0,0,
+nan,,,nan,heBoFr85,0.0,0,0,0,0,0,0,
+nan,,,nan,heBoFr86,0.0,0,0,0,0,0,0,
+nan,,,nan,heBoFr87,0.0,0,0,0,0,0,0,
+nan,,,nan,heBoFr88,0.0,0,0,0,0,0,0,
+nan,,,nan,heBoFr89,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Boehringer Ingelheim,heBoFr90,0.0,10,8,2,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Boehringer Ingelheim,heBoFr91,0.0,3,1,2,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCa92,0.0,24,17,7,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnOt93,1.0,9,8,2,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,heUnCl94,0.0,1,0,1,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,Beaphar,heBeLa95,0.0,2,1,1,0,0,0,
+Herrera & Elizondo,dog,Pharmacy,Beaphar,heBeLa96,0.0,3,1,2,0,0,0,
+nan,,,nan,heTaTa97,0.0,0,0,0,0,0,0,
+nan,,,nan,heUnKe98,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,cat,Pharmacy,Unimedical,heUnCl99,0.0,6,5,1,0,0,0,
+nan,,,nan,heUnAp100,0.0,0,0,0,0,0,0,
+nan,,,nan,heBeLa101,0.0,0,0,0,0,0,0,
+nan,,,nan,heBeLa102,0.0,0,0,0,0,0,0,
+nan,,,nan,heAlDo103,0.0,40,11,29,4,0,4,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3816,0.0,13,10,3,2,0,2,Available
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC2815,0.0,21,19,2,2,0,2,Reserve Now
+nan,,,nan,ZePZDA1832,5.0,0,3,2,0,0,0,
+DogHood,dog and cat,Higiene,ZeeDog,ZepZD11833,5.0,11,13,3,1,0,1,Available
+nan,,,nan,PePPE11831,3.0,18,20,1,0,0,0,
+nan,,,nan,TopTC1726,0.0,0,0,0,0,0,0,
+Full Pets,dog,Higiene,King Komb,KiKK11318,0.0,9,8,1,0,0,0,
+Mundo Pet,dog,Food,Old Prince,OlpOPA1814,2.0,12,11,3,2,0,2,Available
+TOBI,dog,Accessories,Tobibox,TopTB1820,0.0,0,0,0,0,0,0,
+nan,,,nan,TopTB1821,0.0,0,0,0,0,0,0,
+nan,,,nan,TopTB1822,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2775,1.0,4,3,2,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD31454,-2.0,21,14,5,2,0,2,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD31455,0.0,44,32,12,5,0,5,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD41436,21.0,110,110,21,0,1,1,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD41493,1.0,94,78,17,3,1,4,Available
+VETIM SA,cat,Food,Prescription Diet,ScgSD41497,0.0,90,58,32,10,0,10,Available
+nan,,,nan,BapBA1823,1.0,0,1,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1828,1.0,0,1,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1827,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1826,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1825,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1829,0.0,0,0,0,0,0,0,
+Bagheera,dog,Accessories,Baghera,BapBGA1830,0.0,0,0,0,0,0,0,
+Virbac,cat,Food,Virbac,VigVC3188,0.0,5,3,2,1,0,1,Available
+Virbac,cat,Food,Virbac,VigVC3189,0.0,7,3,4,0,0,0,
+Virbac,cat,Food,Virbac,VigVC3190,0.0,4,3,1,0,1,1,Reserve Now
+Virbac,cat,Food,Virbac,VigVC3194,0.0,6,4,2,1,0,1,Available
+Virbac,cat,Food,Virbac,VigVC3195,0.0,12,11,1,1,0,1,Reserve Now
+Virbac,cat,Food,Virbac,VigVC3196,0.0,10,8,2,0,0,0,
+Virbac,dog,Food,Virbac,VipVC31322,0.0,34,32,2,5,0,5,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31326,0.0,13,11,2,0,0,0,
+Virbac,dog,Food,Virbac,VipVC31328,0.0,34,30,4,2,2,4,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31678,0.0,17,15,2,1,0,1,Available
+Virbac,dog,Food,Virbac,VipVC31681,0.0,10,9,1,1,0,1,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31684,0.0,7,2,5,0,0,0,
+Virbac,dog,Food,Virbac,VipVC11331,0.0,7,5,2,2,0,2,Reserve Now
+EnPaleta,dog,Food,Moka Treats,MoPMTA2014,0.0,90,83,7,0,0,0,
+EnPaleta,dog,Food,Moka Treats,MoPMTA2015,0.0,27,24,3,1,0,1,Available
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1988,0.0,18,18,0,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1989,0.0,13,12,1,1,0,1,Reserve Now
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1987,0.0,16,14,2,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1986,0.0,12,11,1,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1991,0.0,6,4,2,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1992,0.0,7,5,2,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1990,0.0,5,4,1,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1993,0.0,6,5,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1995,0.0,6,5,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA1994,0.0,7,6,1,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1999,0.0,2,0,2,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1997,0.0,2,0,2,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1996,0.0,4,4,0,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA1998,0.0,2,1,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2003,0.0,2,1,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2002,0.0,2,2,0,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA2000,0.0,3,2,1,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA2001,0.0,2,0,2,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA2004,0.0,2,2,0,0,0,0,
+Philozoo CR,dog,Accessories,Philozoo CR,PhPPZA2005,0.0,2,1,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2006,0.0,3,2,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2007,0.0,2,1,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2008,0.0,3,2,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2009,0.0,3,2,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2010,0.0,3,3,0,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2011,0.0,3,2,1,0,0,0,
+IPet,dog,Accessories,IPet,JuPIPA2012,3.0,0,3,0,0,0,0,
+VETIM SA,dog,Pharmacy,Bravecto,BrpBV11610,0.0,23,9,14,2,0,2,Available
+VETIM SA,dog,Pharmacy,Bravecto,BrpBV11611,0.0,51,33,18,7,0,7,Available
+VETIM SA,dog,Pharmacy,Bravecto,BrpBV11612,0.0,53,42,11,13,0,13,Reserve Now
+VETIM SA,dog,Pharmacy,Bravecto,BrpBV11613,0.0,36,23,13,2,0,2,Available
+VETIM SA,dog,Pharmacy,Bravecto,BrpBV11614,0.0,14,7,7,1,0,1,Available
+VETIM SA,cat,Pharmacy,Bravecto,BrgBC12016,0.0,1,0,1,0,0,0,
+VETIM SA,cat,Pharmacy,Bravecto,BrgBC12017,3.0,17,13,7,2,0,2,Available
+VETIM SA,cat,Pharmacy,Bravecto,BrgBC12018,1.0,27,18,10,9,0,9,Available
+IPet,dog,Higiene,IPet,DePIPA2013,3.0,0,3,0,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD31482,0.0,11,8,3,1,0,1,Available
+Virbac,dog and cat,Higiene,Virbac,VipVB2019,0.0,25,20,5,2,0,2,Available
+Virbac,dog and cat,Higiene,Virbac,VipVB2020,0.0,21,19,2,1,0,1,Available
+Virbac,dog,Higiene,Virbac,VipVB2021,2.0,23,23,2,4,1,5,Reserve Now
+Virbac,dog,Higiene,Virbac,VipVB2022,4.0,23,24,3,0,1,1,Available
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2023,0.0,7,7,0,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2024,1.0,11,11,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2025,-1.0,10,9,0,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2026,0.0,6,5,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2027,0.0,9,7,2,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2028,0.0,5,3,2,2,0,2,Reserve Now
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2029,0.0,3,2,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2067,0.0,2,2,0,0,0,0,
+nan,,,nan,KopKG2068,0.0,3,3,0,0,0,0,
+nan,,,nan,KopKG2069,0.0,3,2,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2070,0.0,3,2,1,0,0,0,
+nan,,,nan,KopKG2071,1.0,3,4,0,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2072,0.0,3,2,1,0,0,0,
+nan,,,nan,KopKG2073,0.0,7,7,0,0,0,0,
+nan,,,nan,KopKG2074,0.0,3,3,0,0,0,0,
+nan,,,nan,KopKG2075,0.0,3,3,0,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2076,0.0,3,0,3,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2077,0.0,5,3,2,0,0,0,
+nan,,,nan,KopKG2078,0.0,3,3,0,0,0,0,
+Gill bo,dog,Accessories,Gill Bo,GipGB2064,0.0,1,1,0,0,0,0,
+Gill bo,dog,Accessories,Gill Bo,GipGB2065,0.0,1,0,1,0,0,0,
+nan,,,nan,FopFP2079,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2080,1.0,3,4,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2081,0.0,3,2,1,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2082,0.0,3,2,1,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2083,0.0,3,0,3,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2084,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2085,0.0,3,0,3,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2086,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2088,1.0,3,4,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2087,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2089,0.0,3,1,2,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2090,1.0,3,4,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2091,0.0,3,2,1,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2092,0.0,3,2,1,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2093,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2094,0.0,3,2,1,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2095,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2096,0.0,3,0,3,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2097,0.0,3,3,0,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2098,0.0,3,0,3,0,0,0,
+Petoy S.A,dog,Accessories,For FAN Pets,FopFP2099,1.0,3,4,0,0,0,0,
+nan,,,nan,PACK1STCO,0.0,2,0,2,0,0,0,
+IPET,cat,Accessories,IPet,PACKg1STCO,0.0,2,2,0,0,0,0,
+TOBI,cat,Accessories,tobi,togTB2066,0.0,2,1,1,0,0,0,
+Petoy S.A,dog,Food,Oh la la,OhpOL2100,0.0,15,11,4,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP2031,0.0,2,1,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP2032,0.0,4,3,1,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP2030,0.0,2,0,2,0,0,0,
+Mundo Pet,dog,Higiene,MPets,MPpMP2033,2.0,2,4,0,0,0,0,
+Mundo Pet,dog,Food,Old Prince,OlpOP2034,0.0,2,0,2,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2119,0.0,6,5,1,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2121,0.0,6,4,2,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhpPZA2120,0.0,5,4,1,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNPA2113,0.0,138,125,13,5,2,7,Available
+Natural pets,dog,Food,Natural Pets,NapNPA2105,0.0,231,203,28,6,0,6,Available
+Natural pets,dog,Food,Natural Pets,NapNPA2114,0.0,31,29,2,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNPA2106,9.0,76,81,4,9,2,11,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2111,0.0,163,154,9,7,1,8,Available
+Natural pets,dog,Food,Natural Pets,NapNPA2103,0.0,309,296,13,21,4,25,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2112,2.0,210,201,11,15,1,16,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2104,-6.0,286,250,30,20,2,22,Available
+Natural pets,dog,Food,Natural Pets,NapNPA2115,1.0,151,140,12,16,4,20,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2107,0.0,367,352,15,25,2,27,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2116,2.0,171,162,11,17,4,21,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2108,9.0,348,317,40,39,2,41,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2109,8.0,278,270,16,20,3,23,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2117,0.0,110,99,11,14,0,14,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNPA2118,2.0,26,25,3,2,0,2,Available
+Natural pets,dog,Food,Natural Pets,NapNPA2110,0.0,103,93,10,16,3,19,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31688,1.0,2,3,0,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD31475,0.0,2,1,1,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1798,0.0,20,18,2,2,0,2,Reserve Now
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC2100,0.0,7,5,2,0,0,0,
+Mundo Pet,dog,Food,Old Prince,OlpOPA18142,0.0,15,14,1,3,0,3,Reserve Now
+nan,,,nan,ChpCIJ2101,1.0,0,1,0,0,0,0,
+nan,,,nan,ChpCIJ2102,1.0,0,1,0,0,0,0,
+nan,,,nan,WagWD51236,2.0,0,2,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP915022,0.0,0,0,0,0,0,0,
+nan,,,nan,heMeHe104,0.0,7,5,2,0,0,0,
+nan,,,nan,heMeHe105,0.0,1,0,1,0,0,0,
+nan,,,nan,heMeHe106,0.0,3,2,1,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC31407,0.0,4,3,1,1,0,1,Reserve Now
+nan,,,nan,PugFXP2122,1.0,0,1,0,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiLI135,0.0,9,4,5,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiAN136,0.0,9,5,4,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiIM137,0.0,11,9,2,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiHI138,0.0,3,2,1,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiAN139,0.0,18,7,11,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiLi140,0.0,3,1,2,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiNE141,0.0,16,6,10,1,0,1,Available
+Ayurveda,two,Pharmacy,Himalaya,AyHiSC142,0.0,10,4,6,0,0,0,
+Ayurveda,two,Pharmacy,Himalaya,AyHiDI143,1.0,37,34,4,1,0,1,Available
+nan,,,nan,PugFXP2123,1.0,0,1,0,0,0,0,
+Nestle,cat,Food,Felix,PugFXP2124,1.0,10,8,3,1,0,1,Available
+Nestle,cat,Food,Felix,PugFXP2125,6.0,16,15,7,2,0,2,Available
+Nestle,cat,Food,Felix,PugFXP2126,13.0,14,20,7,3,0,3,Available
+Nestle,cat,Food,Felix,PugFXP2127,2.0,20,15,7,2,0,2,Available
+Nestle,cat,Food,Felix,PugFXP2128,1.0,22,13,10,0,0,0,
+nan,,,nan,PugFXP2129,8.0,15,13,10,2,0,2,Available
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2035,6.0,17,17,6,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2036,6.0,18,24,0,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2037,7.0,4,7,4,1,0,1,Available
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2038,6.0,0,3,3,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2039,6.0,0,2,4,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2040,6.0,0,4,2,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2041,6.0,0,4,2,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2042,6.0,0,2,4,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2043,6.0,0,1,5,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2044,6.0,0,0,6,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2045,6.0,0,0,6,0,0,0,
+Suplidora Royal,dog,Food,Nature's Protection,NaPNP2046,6.0,0,2,4,0,0,0,
+nan,,,nan,SoAAc2131,1.0,0,1,0,0,0,0,
+nan,,,nan,SoAAc2133,0.0,0,0,0,0,0,0,
+nan,,,nan,SoAAc2132,0.0,0,0,0,0,0,0,
+nan,,,nan,SoAAc2130,0.0,0,0,0,0,0,0,
+Yanyunis,dog,Food,Grizzly Salmon Plus,GrWMew1511,0.0,17,12,5,1,0,1,Available
+Suplidora Royal,cat,Accessories,Cat It,CaGCI2060,0.0,6,3,3,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CaGCI2061,7.0,52,49,10,6,0,6,Available
+Suplidora Royal,cat,Food,Cat It,CaGCI2063,-3.0,50,28,19,9,0,9,Available
+Suplidora Royal,cat,Food,Cat It,CaGCI2062,1.0,52,44,9,7,0,7,Available
+Natural pets,dog,Food,Natural Pets,NaAAl21171,0.0,25,24,1,2,0,2,Reserve Now
+Petgüel,dog,Food,Petgüel,PeAMi2134,3.0,3,6,0,0,0,0,
+Petgüel,dog,Food,Petgüel,PeAMi2135,6.0,2,8,0,0,0,0,
+Petgüel,dog,Food,Petgüel,PeAMi2136,8.0,5,13,0,0,0,0,
+Petgüel,dog,Food,Petgüel,PeAMi2137,7.0,1,8,0,0,0,0,
+Nestle,cat,Food,Felix,PugFX475,0.0,84,45,39,21,0,21,Available
+nan,,,nan,PugPP2187,0.0,4,2,2,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP2188,2.0,6,7,1,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31377,0.0,4,2,2,0,0,0,
+nan,,,nan,SopAc2130,1.0,0,1,0,0,0,0,
+nan,,,nan,SopAc2132,0.0,0,0,0,0,0,0,
+nan,,,nan,SopAc2133,0.0,0,0,0,0,0,0,
+nan,,,nan,SopAc2131,0.0,0,0,0,0,0,0,
+VETIM SA,cat,Food,Science Diet,Scgsm2138,0.0,15,10,5,2,0,2,Available
+VETIM SA,dog,Pharmacy,NutraProK10,Nupme2139,60.0,0,52,8,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2047,2.0,6,2,6,1,0,1,Available
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2048,0.0,7,2,5,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2049,0.0,6,3,3,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2050,0.0,10,8,2,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2051,0.0,7,3,4,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2053,0.0,8,5,3,0,0,0,
+Suplidora Royal,cat,Higiene,Easygroom,EaGEG2054,0.0,7,3,4,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2056,1.0,9,10,0,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2057,0.0,11,8,3,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2058,-1.0,9,7,1,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EaPEG2059,0.0,6,4,2,1,0,1,Available
+Suplidora Royal,dog,Higiene,Mr. Aton,MrPMA2052,0.0,9,8,1,0,0,0,
+Suplidora Royal,dog,Higiene,Mr. Aton,MrPMA2055,0.0,6,5,1,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2141,14.0,200,214,0,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2142,0.0,17,11,6,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2144,0.0,10,3,7,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2145,0.0,10,7,3,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2146,0.0,30,29,1,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2148,0.0,49,42,7,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2149,0.0,30,5,25,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2150,0.0,3,1,2,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2151,0.0,3,2,1,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2152,0.0,14,7,7,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2153,0.0,30,0,30,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2154,0.0,3,2,1,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2155,0.0,3,0,3,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2156,0.0,6,2,4,2,0,2,Available
+nan,,,nan,LidMe2158,0.0,3,2,1,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2159,0.0,5,2,3,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2160,0.0,3,0,3,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidMe2161,0.0,30,0,30,0,0,0,
+Corpeco,two,Pharmacy,Zoetis,ZodMe2164,0.0,60,27,33,0,0,0,
+Corpeco,two,Pharmacy,Zoetis,ZodMe2162,0.0,40,10,30,0,0,0,
+Corpeco,two,Pharmacy,Zoetis,ZodMe2163,0.0,100,93,7,0,0,0,
+Monteco,two,Pharmacy,Petmedica,PedMe2165,0.0,150,90,60,0,0,0,
+Monteco,dog,Pharmacy,Holliday,HopMe2166,0.0,3,1,2,0,0,0,
+Monteco,two,Pharmacy,Holliday,HodMe2167,0.0,3,0,3,0,0,0,
+Natural pets,cat,Food,Natural Pets,NagNP2191,0.0,9,4,5,0,0,0,
+Natural pets,cat,Food,Natural Pets,NagNP2189,20.0,57,74,3,5,0,5,Reserve Now
+Natural pets,cat,Food,Natural Pets,NagNP2192,0.0,7,4,3,0,1,1,Available
+Natural pets,cat,Food,Natural Pets,NagNP2190,6.0,45,49,2,6,0,6,Reserve Now
+Monteco,two,Pharmacy,Holliday,HodMe2168,0.0,12,3,9,0,0,0,
+Monteco,two,Pharmacy,Holliday,HodMe2169,0.0,12,2,10,0,0,0,
+Monteco,two,Pharmacy,Holliday,HodMe2170,0.0,6,2,4,1,0,1,Available
+Monteco,two,Pharmacy,Holliday,HodMe2171,0.0,6,4,2,1,0,1,Available
+Monteco,two,Pharmacy,Holliday,HodMe2172,0.0,30,17,13,0,0,0,
+Monteco,two,Pharmacy,Holliday,HodMe2173,1.0,12,5,8,0,0,0,
+VETIM SA,cat,Pharmacy,Viyo,VigMe2184,0.0,6,2,4,0,0,0,
+VETIM SA,dog,Pharmacy,Viyo,VipMe2185,0.0,9,9,0,0,0,0,
+VETIM SA,dog,Pharmacy,Viyo,VipMe2182,0.0,42,21,21,5,0,5,Available
+VETIM SA,cat,Pharmacy,Viyo,VigMe2183,7.0,35,10,32,3,0,3,Available
+PetAppetit,two,Food,PetAppetit,PedPA2193,6.0,0,6,0,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadMe2147,0.0,300,54,246,17,0,17,Available
+Petgüel,dog,Food,Petgüel,PeAMi2134P,4.0,8,12,0,0,0,0,
+Petgüel,dog,Food,Petgüel,PeAMi2135P,5.0,10,15,0,0,0,0,
+Petgüel,dog,Food,Petgüel,PeAMi2136P,7.0,6,13,0,2,0,2,Reserve Now
+Suplidora Royal,cat,Food,Royal Canin,RogRC31271,0.0,1,1,0,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSDd2198,0.0,18,15,3,1,0,1,Available
+VETIM SA,dog,Food,Science Diet,ScpSD31549,0.0,5,3,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSDd2197,0.0,12,9,3,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSDW2200,0.0,106,54,52,2,0,2,Available
+VETIM SA,dog,Food,Science Diet,ScpSDW2199,0.0,84,61,23,0,0,0,
+Mundo Pet,dog,Food,Monge Vet Solution,MopMVW2195,2.0,69,58,13,0,0,0,
+Mundo Pet,cat,Food,Monge Vet Solution,MogMVW2194,0.0,13,7,6,0,0,0,
+Mundo Pet,cat,Food,Monge Vet Solution,MogMVW2196,0.0,23,13,10,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhdPZ2201,1.0,2,2,1,1,0,1,Reserve Now
+Philozoo CR,two,Accessories,Philozoo CR,PhdPZ2203,0.0,8,5,3,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhdPZ2202,0.0,6,5,1,0,0,0,
+Virbac,cat,Food,Virbac,VigMed2186,0.0,13,11,2,1,0,1,Available
+Nestle,cat,Food,Felix,PugFXW2204,0.0,30,15,15,5,0,5,Available
+Suplidora Royal,dog,Food,Royal Canin,RopRC31288,0.0,2,2,0,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC31421,0.0,4,4,0,0,0,0,
+Yanyunis,dog,Food,Diamond Care,DipDc2194,0.0,2,1,1,0,0,0,
+Yanyunis,dog,Food,Diamond Care,DipDc3195,0.0,5,2,3,1,0,1,Available
+Yanyunis,cat,Food,Diamond Naturals,DigDN3201,0.0,7,4,3,1,0,1,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN2205,6.0,30,36,0,0,0,0,
+Corpeco,two,Pharmacy,Calox,CadCX2206,,1,1,0,0,0,0,
+Vets & Pets,dog,Food,Vet Life,VepVL22211,0.0,2,0,2,0,0,0,
+Virbac,cat,Food,Virbac,VigVC3772,0.0,6,2,4,0,0,0,
+Vets & Pets,dog,Food,Vet Life,VepVL22212,0.0,14,12,2,3,0,3,Reserve Now
+Virbac,dog,Food,Virbac,VipVC11325,0.0,5,4,1,1,0,1,Reserve Now
+Virbac,dog,Food,Virbac,VipVC31324,0.0,2,0,2,0,0,0,
+Vets & Pets,dog,Food,Vet Life,VepVL22213,0.0,16,9,7,2,0,2,Available
+Vets & Pets,dog,Food,Vet Life,VepVL22214,0.0,5,2,3,0,0,0,
+Vets & Pets,cat,Food,Vet Life,VegVL22215,0.0,27,13,14,0,0,0,
+Virbac,dog,Food,Virbac,VipVC21685,0.0,7,6,1,1,0,1,Reserve Now
+Vets & Pets,cat,Food,Vet Life,VegVL22216,0.0,8,6,2,2,0,2,Reserve Now
+Virbac,cat,Food,Virbac,VigVC3193,0.0,12,10,2,2,0,2,Reserve Now
+Vets & Pets,cat,Food,Vet Life,VegVL22217,0.0,5,1,4,1,0,1,Available
+nan,,,nan,PrpPP12218,0.0,2,0,2,0,0,0,
+nan,,,nan,PrpPP12219,0.0,2,0,2,0,0,0,
+nan,,,nan,PrpPP12220,0.0,2,0,2,0,0,0,
+nan,,,nan,PrpPP12221,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Food,Grizzly Salmon Plus,GrpGSw2222,0.0,10,4,6,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2224,0.0,2,1,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2223,0.0,2,2,0,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2225,0.0,2,1,1,0,0,0,
+nan,,,nan,KopKG2226,0.0,2,1,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2227,0.0,2,1,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2228,0.0,2,2,0,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD2229,0.0,8,6,2,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1834,0.0,17,14,3,5,1,6,Reserve Now
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3836,0.0,10,9,1,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP2230,0.0,6,6,0,0,0,0,
+nan,,,nan,MPpMP2231,0.0,2,2,0,0,0,0,
+Mundo Pet,dog,Accessories,MPets,MPpMP2232,0.0,1,1,0,0,0,0,
+nan,,,nan,MPdMP2233,0.0,2,2,0,0,0,0,
+nan,,,nan,MPpMP2234,0.0,1,1,0,0,0,0,
+nan,,,nan,MPpMP2235,0.0,2,2,0,0,0,0,
+Alcames,two,Pharmacy,Nutricell,Ald2236,0.0,7,5,2,0,0,0,
+Alcames,two,Pharmacy,Nutricell,Ald2237,0.0,17,10,7,0,0,0,
+Alcames,two,Pharmacy,Artrin,Brp2238,0.0,21,17,4,1,0,1,Available
+Alcames,cat,Pharmacy,Meltra,Brg2239,0.0,10,9,1,2,0,2,Reserve Now
+Alcames,cat,Pharmacy,Meltra,Brg2240,0.0,7,4,3,1,0,1,Available
+Alcames,dog,Pharmacy,Artrin,Brp2241,0.0,7,1,6,0,0,0,
+Alcames,two,Pharmacy,Opter,Brd2242,0.0,8,3,5,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC3811,0.0,11,9,2,1,0,1,Available
+nan,,,nan,1spFC2810,0.0,0,0,0,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD21531,0.0,3,2,1,0,0,0,
+Virbac,dog,Food,Virbac,VipVC11327,0.0,19,14,5,5,0,5,Reserve Now
+nan,,,nan,CadCX2327,0.0,10,0,10,0,0,0,
+Nestle,cat,Food,Pro Plan,PugPP2333,0.0,39,35,4,6,0,6,Reserve Now
+Nestle,cat,Food,Pro Plan,PugPP2328,0.0,12,9,3,2,0,2,Available
+Nestle,cat,Food,Pro Plan,PugPP2329,0.0,6,5,1,0,0,0,
+Nestle,cat,Food,Pro Plan,PugPP2331,0.0,2,2,0,0,0,0,
+Nestle,cat,Food,Pro Plan,PugPP2332,0.0,4,3,1,1,0,1,Reserve Now
+PetAppetit,dog,Food,PetAppetit,PepPA2564,26.0,0,26,0,3,0,3,Reserve Now
+Nestle,cat,Food,Pro Plan,PugPP2330,2.0,5,5,2,1,0,1,Available
+NOMADA FRUIT COMPANY,dog,Food,TITI TREATS,TIpTTT2207,0.0,0,0,0,0,0,0,
+NOMADA FRUIT COMPANY,dog,Food,TITI TREATS,TIpTTT2208,0.0,24,3,21,0,0,0,
+NOMADA FRUIT COMPANY,dog,Food,TITI TREATS,TIpTTT2209,15.0,32,47,0,0,0,0,
+NOMADA FRUIT COMPANY,dog,Food,TITI TREATS,TIpTTT2210,12.0,76,88,0,4,0,4,Reserve Now
+Yotto,two,Accessories,Yotto,YodYT2253,0.0,5,4,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2248,0.0,3,2,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2245,0.0,3,2,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2251,0.0,3,3,0,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2249,0.0,4,3,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2246,0.0,1,0,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2247,0.0,2,1,1,0,0,0,
+Yotto,two,Accessories,Yotto,YodYT2250,0.0,5,4,1,0,0,0,
+Yotto,two,Accessories,0,YodYT2252,0.0,1,1,0,0,0,0,
+nan,,,nan,PugFXW2304,2.0,4,6,0,0,0,0,
+EnPaleta,dog,Food,Moka Treats,MoPMT2263,0.0,20,11,9,1,0,1,Available
+EnPaleta,dog,Food,Moka Treats,MoPMT2264,0.0,14,7,7,0,0,0,
+Madero,two,Higiene,Blue,BldBL2306,0.0,12,11,1,2,0,2,Reserve Now
+Madero,two,Higiene,Blue,BldBL2307,0.0,12,11,1,0,0,0,
+Madero,two,Higiene,Blue,BldBL2305,0.0,7,6,1,0,0,0,
+Madero,two,Higiene,Blue,BldBL2308,0.0,2,2,0,0,0,0,
+Madero,two,Higiene,Blue,BldBL2309,0.0,2,2,0,0,0,0,
+Madero,two,Higiene,Blue,BldBL2310,0.0,2,2,0,0,0,0,
+Madero,two,Higiene,Blue,BldBL2311,0.0,5,5,0,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2314,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2313,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2315,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2317,0.0,2,1,1,0,0,0,
+nan,,,nan,ZipZPT2343,2.0,0,2,0,0,0,0,
+nan,,,nan,ZipZPT2344,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2345,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2346,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2347,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2348,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2349,0.0,0,0,0,0,0,0,
+nan,,,nan,ZipZPT2350,0.0,0,0,0,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2318,0.0,12,7,5,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2319,0.0,12,7,5,1,0,1,Available
+Madero,two,Accessories,Vida de Perro,VidVD2320,0.0,3,2,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2321,0.0,4,2,2,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2323,0.0,2,1,1,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2324,0.0,5,2,3,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2322,0.0,2,1,1,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2325,0.0,1,0,1,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVD2326,0.0,3,1,2,0,0,0,
+Nestle,dog,Food,Pro Plan,PupPP2417,0.0,10,9,1,0,0,0,
+Gigwi,dog,Accessories,Duraspikes,GiPGW2334,2.0,0,2,0,0,0,0,
+Gigwi,dog,Accessories,Duraspikes,GiPGW2335,1.0,0,1,0,0,0,0,
+Gigwi,dog,Accessories,Duraspikes,GiPGW2336,1.0,0,1,0,0,0,0,
+Gigwi,cat,Accessories,Johnny Stick,GigGW2337,2.0,0,2,0,0,0,0,
+Gigwi,cat,Accessories,Johnny Stick,GigGW2338,2.0,0,2,0,0,0,0,
+Gigwi,dog,Accessories,Gigwi,GiPGW2339,2.0,0,2,0,0,0,0,
+Gigwi,cat,Accessories,Gigwi,GigGW2340,1.0,0,1,0,0,0,0,
+Suplidora Royal,cat,Food,Royal Canin,RogRC31384,0.0,1,0,1,0,0,0,
+nan,,,nan,EaPEGT2354,-1.0,6,2,3,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2312,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,ViPVD2316,0.0,1,0,1,0,0,0,
+nan,,,nan,ArdAKT2355,2.0,0,2,0,0,0,0,
+nan,,,nan,ArdAKT2356,1.0,0,1,0,0,0,0,
+nan,,,nan,ArdAKT2357,0.0,0,0,0,0,0,0,
+nan,,,nan,VepVLT2358,1.0,16,16,1,1,0,1,Reserve Now
+nan,,,nan,GrdGYT2361,0.0,0,0,0,0,0,0,
+nan,,,nan,GrdGYT2359,1.0,0,1,0,0,0,0,
+nan,,,nan,GrdGYT2360,1.0,0,1,0,0,0,0,
+Nestle,cat,Food,Pro Plan,PugPPT2381,2.0,6,5,3,0,0,0,
+nan,,,nan,VepVLT2382,0.0,13,12,1,1,0,1,Reserve Now
+nan,,,nan,NapNLT2383,3.0,0,3,0,0,0,0,
+NOMADA FRUIT COMPANY,dog,Food,TITI TREATS,TIpTTT2341,0.0,29,8,21,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNPT2353,0.0,191,164,27,18,0,18,Available
+Vets & Pets,dog,Food,Natural Select,NapNST2384,0.0,19,7,12,2,0,2,Available
+Vets & Pets,dog,Food,Natural Select,NapNST2385,0.0,26,11,15,0,0,0,
+Vets & Pets,dog,Food,Natural Select,NapNST2386,0.0,12,9,3,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,ScpSD31453,0.0,14,8,6,4,0,4,Available
+VETIM SA,dog,Food,Prescription Diet,ScpSD21485,0.0,7,4,3,2,0,2,Available
+Virbac,dog,Food,Virbac,VipVC11318,0.0,3,1,2,0,0,0,
+Virbac,dog,Food,Virbac,VipVC31317,0.0,10,4,6,1,0,1,Available
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2365,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2364,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2363,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2368,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2367,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2366,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2371,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2370,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2369,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2374,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2373,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2372,0.0,2,1,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2377,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2376,0.0,1,1,0,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2375,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2380,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2379,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLMT2378,0.0,1,0,1,0,0,0,
+Nestle,cat,Food,Pro Plan,PugPPT2387,0.0,150,118,32,8,0,8,Available
+Yanyunis,dog,Food,Taste Of the Wild,TapTW1140,0.0,4,2,2,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS3315,3.0,7,4,6,0,0,0,
+AG925,cat,Higiene,Ecolight,EcgEG2519,0.0,30,19,11,8,0,8,Available
+AG925,dog,Accessories,Zawates,ZapZW2527,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2526,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2525,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2530,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2529,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2528,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2536,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2535,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2534,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2533,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2532,0.0,2,1,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2531,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2539,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2538,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2537,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2542,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2541,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2540,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2545,0.0,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2544,0.0,1,1,0,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2543,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2388,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,cat,Food,1st CHOICE,1sgFC2782,0.0,14,10,4,4,0,4,Reserve Now
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC1826,0.0,8,7,1,2,0,2,Reserve Now
+VETIM SA,cat,Food,Prescription Diet,ScgSD31509,0.0,11,6,5,2,0,2,Available
+nan,,,nan,ScgSD31591,0.0,5,3,2,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNP2569,-2.0,16,12,2,1,0,1,Available
+Natural pets,dog,Food,Natural Pets,NapNP2568,-6.0,77,53,18,9,0,9,Available
+Natural pets,dog,Food,Natural Pets,NapNP2572,6.0,7,13,0,3,0,3,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNP2571,0.0,20,15,5,4,0,4,Available
+Natural pets,dog,Food,Natural Pets,NapNP2570,0.0,77,60,17,14,0,14,Available
+DogHood,dog,Accessories,ZeeDog,ZepZD2502,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2503,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2475,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2476,1.0,1,1,1,1,0,1,Reserve Now
+DogHood,dog,Accessories,ZeeDog,ZepZD2477,0.0,2,1,1,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,PrpPD2592,0.0,14,8,6,1,0,1,Available
+nan,,,nan,BidBM2573,500.0,0,500,0,0,0,0,
+nan,,,nan,AldAM2574,39.0,0,39,0,0,0,0,
+Alcames,dog,Pharmacy,Brouwer,BrpBW2577,200.0,0,200,0,0,0,0,
+Alcames,dog,Pharmacy,Brouwer,BrpBW2575,200.0,0,200,0,0,0,0,
+Alcames,dog,Pharmacy,Brouwer,BrpBW2576,200.0,0,200,0,0,0,0,
+nan,,,nan,OvpOV2581,250.0,0,250,0,0,0,0,
+nan,,,nan,OvpOV2580,100.0,0,100,0,0,0,0,
+nan,,,nan,OvpOV2582,400.0,0,400,0,0,0,0,
+Corpeco,two,Pharmacy,Lisan,LidLN2583,100.0,6,102,4,0,0,0,
+Monteco,two,Pharmacy,Petmedica,PedPC2584,10.0,0,10,0,0,0,0,
+nan,,,nan,AgdAV2585,2.0,0,2,0,0,0,0,
+nan,,,nan,BadBY2586,4.0,0,4,0,0,0,0,
+nan,,,nan,RodRY2587,0.0,2,2,0,0,0,0,
+nan,,,nan,RodRY2589,0.0,2,2,0,0,0,0,
+nan,,,nan,RodRY2588,0.0,2,2,0,0,0,0,
+nan,,,nan,UndUP2590,28.0,0,28,0,0,0,0,
+nan,,,nan,LadLY2591,28.0,0,28,0,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Pet Health,PedPH2593,25.0,0,25,0,0,0,0,
+nan,,,nan,AldAF2594,1.0,0,1,0,0,0,0,
+Alcames,cat,Pharmacy,Brouwer,BrgBW2578,200.0,0,200,0,0,0,0,
+Alcames,cat,Pharmacy,Brouwer,BrgBW2579,200.0,0,200,0,0,0,0,
+Philozoo CR,two,Accessories,Philozoo CR,PhdPZ2595,1.0,18,11,8,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2629,0.0,3,3,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2628,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2627,0.0,3,2,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2630,0.0,5,2,3,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2633,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2632,0.0,3,2,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2631,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2634,0.0,2,1,1,0,0,0,
+DogHood,cat,Accessories,ZeeDog,ZegZC2389,1.0,1,2,0,0,0,0,
+DogHood,cat,Accessories,ZeeDog,ZegZC2391,1.0,1,2,0,0,0,0,
+DogHood,cat,Accessories,ZeeDog,ZegZC2390,0.0,1,1,0,0,0,0,
+nan,,,nan,ZegZC2392,0.0,1,1,0,0,0,0,
+nan,,,nan,ZegZC2393,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2394,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2395,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2396,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2397,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2398,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2399,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2400,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2401,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2402,0.0,0,0,0,0,0,0,
+nan,,,nan,ZegZC2403,0.0,0,0,0,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spCH2636,0.0,19,18,1,4,0,4,Reserve Now
+Herrera & Elizondo,dog,Food,1st CHOICE,1spCH2637,0.0,13,9,4,2,0,2,Available
+Mundo Pet,dog,Food,Old Prince,OlpOP2638,2.0,3,4,1,1,0,1,Reserve Now
+EnPaleta,dog,Food,Moka Treats,MoPMT2639,0.0,38,34,4,0,0,0,
+EnPaleta,dog,Food,Moka Treats,MoPMT2640,0.0,17,11,6,0,0,0,
+BELINA,dog,Food,NutriSource,NupNS2639,0.0,6,4,2,1,0,1,Available
+nan,,,nan,PepPA2642,0.0,0,0,0,0,0,0,
+nan,,,nan,PepPA2643,0.0,0,0,0,0,0,0,
+nan,,,nan,PepPA2644,2.0,0,2,0,0,0,0,
+nan,,,nan,PepPA2645,0.0,0,0,0,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNP2645,0.0,26,19,7,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2404,1.0,0,1,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2406,0.0,0,0,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2405,0.0,1,0,1,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2407,0.0,0,0,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2408,0.0,1,1,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2409,0.0,0,0,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2410,0.0,0,0,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2411,0.0,2,1,1,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2412,0.0,0,0,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2413,0.0,4,4,0,0,0,0,
+DogHood,human,Accessories,ZeeDog,ZeHZD2414,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2415,0.0,2,2,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2416,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2417,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2418,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2420,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2421,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2422,1.0,0,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2419,0.0,2,0,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2424,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2425,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2426,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2423,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2428,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2429,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2427,0.0,1,0,1,0,0,0,
+nan,,,nan,ZepZD2430,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2431,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2432,0.0,1,1,0,0,0,0,
+nan,,,nan,ZepZD2433,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2435,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2436,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2437,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2434,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2439,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2440,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2441,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2438,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2443,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2444,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2442,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2445,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2446,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2447,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2448,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2450,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2451,0.0,1,1,0,0,0,0,
+nan,,,nan,ZepZD2452,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2449,0.0,1,1,0,0,0,0,
+nan,,,nan,ZepZD2454,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2455,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2456,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2453,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2458,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2459,0.0,0,0,0,0,0,0,
+nan,,,nan,ZepZD2457,0.0,0,0,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2461,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2462,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2463,0.0,2,0,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2460,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2465,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2466,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2467,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2464,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2469,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2470,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2471,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2468,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2473,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2474,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2472,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2478,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2480,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2481,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2482,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2479,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2484,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2485,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2486,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2483,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2488,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2489,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2487,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2491,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2492,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2493,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2490,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2497,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2499,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2500,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2494,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2501,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2505,0.0,1,1,0,1,0,1,Reserve Now
+DogHood,dog,Accessories,ZeeDog,ZepZD2506,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2507,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2504,0.0,2,1,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2509,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2510,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2511,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2508,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2513,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2514,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2515,0.0,2,0,2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2512,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2517,0.0,1,0,1,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2518,1.0,0,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2516,0.0,1,0,1,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP2694,0.0,3,2,1,0,0,0,
+nan,,,nan,ChdLC2697,0.0,0,0,0,0,0,0,
+nan,,,nan,ChdLC2695,0.0,0,0,0,0,0,0,
+nan,,,nan,ChdLC2698,0.0,0,0,0,0,0,0,
+nan,,,nan,ChdLC2696,2.0,0,2,0,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC2699,0.0,6,3,3,2,0,2,Available
+Yanyunis,dog,Food,Diamond Naturals,DipDN2703,0.0,12,4,8,1,0,1,Available
+Ageagro,cat,Higiene,Fresh Step,FrgFS2702,0.0,8,5,3,1,0,1,Available
+Ageagro,cat,Higiene,Fresh Step,FrgFS2701,0.0,19,9,10,1,0,1,Available
+Ageagro,cat,Higiene,Fresh Step,FrgFS2700,0.0,21,16,5,1,0,1,Available
+BELINA,dog,Food,NutriSource,NupNS2693,6.0,0,10,-4,4,0,4,Reserve Now
+Suplidora Royal,cat,Accessories,Cat It,CagCI2596,3.0,3,3,3,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EapEG2597,2.0,0,1,1,0,0,0,
+Suplidora Royal,dog,Higiene,Easygroom,EapEG2598,2.0,0,1,1,0,0,0,
+tobi,dog,Other,tobi,topto2704,2.0,0,2,0,0,0,0,
+tobi,cat,Other,tobi,togto2705,2.0,0,2,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2650,1.0,0,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2649,0.0,1,1,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2648,0.0,0,0,0,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD2647,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2706,1.0,6,7,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2707,0.0,2,2,0,0,0,0,
+Nutropical,two,Pharmacy,ReThink,RedRT2708,,9,7,2,0,0,0,
+Nutropical,two,Pharmacy,ReThink,RedRT2709,1.0,9,5,5,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2715,0.0,3,1,2,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2716,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2717,0.0,1,1,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2718,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2751,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2752,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2753,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2746,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2745,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2744,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2720,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2722,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2732,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2742,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2741,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2740,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2719,0.0,1,1,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2721,0.0,1,1,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2723,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2730,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2729,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2728,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2726,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2747,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2748,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2749,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2750,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2735,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2736,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2737,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2738,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2725,0.0,1,1,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2727,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2731,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2756,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2739,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2755,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2734,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2733,0.0,2,1,1,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2724,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2754,0.0,1,0,1,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD2758,2.0,0,2,0,0,0,0,
+Cat & Dog Company,dog,Higiene,Cat & Dog Company,CapCD2757,2.0,0,2,0,0,0,0,
+Animal Friend,dog,Accessories,Ruffwear,RupRW2760,0.0,3,3,0,0,0,0,
+Herrera & Elizondo,dog,Food,1st CHOICE,1spFC2710,,2,1,1,0,0,0,
+Suplidora Royal,dog,Food,Royal Canin,RopRC2761,2.0,0,2,0,0,0,0,
+Virbac,dog and cat,Pharmacy,Virbac,VipVB2763,19.0,24,27,16,2,0,2,Available
+Virbac,dog and cat,Pharmacy,Virbac,VipVB2764,3.0,0,3,0,1,0,1,Reserve Now
+Virbac,dog and cat,Pharmacy,Virbac,VipVB2762,5.0,0,11,-6,2,0,2,Reserve Now
+Repagro,two,Pharmacy,Bayer,BadBY2765,0.0,3,0,3,0,0,0,
+Repagro,two,Pharmacy,Bayer,BadBY2766,0.0,48,8,40,0,0,0,
+Repagro,two,Pharmacy,Bayer,BadBY2767,0.0,8,8,0,0,0,0,
+Repagro,two,Pharmacy,Bayer,BadBY2768,0.0,5,1,4,0,0,0,
+Repagro,two,Pharmacy,Bayer,BadBY2769,0.0,2,0,2,0,0,0,
+Repagro,dog,Pharmacy,Bayer,BapBY2770,0.0,4,2,2,0,0,0,
+Repagro,dog,Food,Pedigree,PepPD2771,0.0,3,0,3,0,0,0,
+nan,,,nan,PedPH2773,0.0,0,0,0,0,0,0,
+Sire Veterinario,two,Pharmacy,Brilliant,BrdBL2774,0.0,26,23,3,1,0,1,Available
+AG925,dog,Accessories,Zawates,ZapZW2554,1.0,0,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2553,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2552,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2557,1.0,0,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2556,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2555,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2560,1.0,0,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2559,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2558,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2563,1.0,0,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2562,,1,0,1,0,0,0,
+AG925,dog,Accessories,Zawates,ZapZW2561,,1,0,1,0,0,0,
+Animal Friend,two,Accessories,Zooneee,ZodZN2775,0.0,0,0,0,0,0,0,
+Animal Friend,two,Accessories,Zooneee,ZodZN2776,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2777,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2778,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2779,1.0,0,1,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2780,1.0,0,1,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2781,0.0,1,0,1,0,0,0,
+PETIBOX,two,Higiene,PETIBOX,PEdPB2784,1.0,0,1,0,0,0,0,
+PETIBOX,two,Higiene,PETIBOX,PEdPB2783,4.0,0,4,0,0,0,0,
+PETIBOX,two,Higiene,PETIBOX,PEdPB2782,1.0,0,1,0,0,0,0,
+PETIBOX,two,Higiene,PETIBOX,PEdPB2787,0.0,0,0,0,0,0,0,
+PETIBOX,two,Higiene,PETIBOX,PEdPB2786,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2792,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2793,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2794,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2795,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2788,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2789,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2790,0.0,0,0,0,0,0,0,
+Animal Friend,dog,Accessories,Zooneee,ZopZN2791,0.0,0,0,0,0,0,0,
+Petto,two,Accessories,Petto,PedPT2797,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2796,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2798,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2800,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2799,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2801,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2803,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2802,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2804,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2806,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2805,1.0,0,0,1,0,0,0,
+Petto,two,Accessories,Petto,PedPT2807,1.0,0,0,1,0,0,0,
+Petto,dog,Accessories,Petto,PePPT2809,1.0,0,0,1,0,0,0,
+Petto,dog,Accessories,Petto,PePPT2808,1.0,0,0,1,0,0,0,
+Petto,dog,Accessories,Petto,PePPT2810,1.0,0,0,1,0,0,0,
+Petto,dog,Accessories,Petto,PedPT2811,1.0,0,1,0,0,0,0,
+Petto,dog,Accessories,Petto,PedPT2812,1.0,0,1,0,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2813,0.0,4,3,1,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2814,0.0,7,4,3,0,1,1,Available
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2815,0.0,4,0,4,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2816,0.0,4,0,4,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2817,0.0,4,1,3,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2818,0.0,4,2,2,0,0,0,
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2819,0.0,6,2,4,0,0,0,
+Monteco,two,Pharmacy,Cani-Tabs,CadCT2820,0.0,6,2,4,0,1,1,Available
+VETIM SA,dog,Food,Science Diet,ScpSD2821,,9,3,6,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,PrpPD2822,,1,0,1,0,0,0,
+Nestle,cat,Food,Fancy Feast,PugFF2824,,12,1,11,0,0,0,
+Nestle,cat,Food,Fancy Feast,PugFF2823,,18,9,9,4,0,4,Available
+Vets & Pets,dog,Food,Vet Life,VepVL2825,0.0,1,0,1,0,0,0,
+nan,,,nan,GrdGS2829,,11,5,6,1,0,1,Available
+nan,,,nan,GrdGS2828,0.0,11,5,6,0,0,0,
+nan,,,nan,VedVP2826,9.0,0,8,1,0,0,0,
+nan,,,nan,DigDi2827,,4,1,3,1,0,1,Available
+nan,,,nan,VipVC2832,,1,0,1,0,0,0,
+nan,,,nan,VidVC2830,,4,4,0,0,0,0,
+nan,,,nan,VidVC2831,,2,1,1,0,0,0,
+nan,,,nan,TopTC1726-1,0.0,0,0,0,0,0,0,
+VETIM SA,dog,Food,Prescription Diet,PrpPD2826,,3,1,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD2827,,4,0,4,1,0,1,Available
+VETIM SA,cat,Food,Science Diet,ScgSD2828,,2,0,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD2829,2.0,18,12,8,2,0,2,Available
+BELINA,dog,Food,NutriSource,NupNS2830,0.0,5,3,2,1,0,1,Available
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2831,1.0,2,1,2,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2832,1.0,4,4,1,1,0,1,Reserve Now
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2834,1.0,0,1,0,1,0,1,Reserve Now
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2835,1.0,0,1,0,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2833,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2837,1.0,2,3,0,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2836,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2838,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2839,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,dog,Food,Pronature,PrpPN2840,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,cat,Food,Pronature,PrgPN2841,1.0,1,1,1,0,0,0,
+Herrera & Elizondo,cat,Food,Pronature,PrgPN2842,1.0,0,0,1,0,0,0,
+Herrera & Elizondo,cat,Food,Pronature,PrgPN2843,,3,3,0,0,0,0,
+Herrera & Elizondo,cat,Food,Pronature,PrgPN2844,,3,2,1,0,0,0,
+Herrera & Elizondo,cat,Food,Pronature,PrgPN2845,1.0,0,1,0,1,0,1,Reserve Now
+Natural pets,dog,Food,Natural Pets,NapNP2859,,21,13,8,4,0,4,Available
+Natural pets,dog,Food,Natural Pets,NapNP2858,,26,18,8,2,0,2,Available
+Natural pets,dog,Food,Natural Pets,NapNP2860,,100,12,88,0,0,0,
+Yanyunis,dog,Food,PREY,TapPR2862,2.0,4,3,3,1,0,1,Available
+nan,,,nan,tobicare1,1.0,0,1,0,0,0,0,
+Nestle,dog,Food,Dog Chow,PupCH2863,,2,0,2,0,0,0,
+CENTRAL VETERINARIA S.A.,dog,Food,Total Nutrition,TopTN2884,1.0,12,13,0,5,0,5,Reserve Now
+CENTRAL VETERINARIA S.A.,dog,Food,Total Nutrition,TopTN2885,0.0,12,7,5,3,0,3,Available
+Yanyunis,dog,Accessories,Kong,KopKG2864,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2887,0.0,1,0,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2886,0.0,1,0,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2865,0.0,1,0,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2888,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2866,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2867,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2868,0.0,2,0,2,0,0,0,
+nan,,,nan,KopKG2869,2.0,0,2,0,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2870,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2871,0.0,8,1,7,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2872,0.0,2,1,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2873,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2874,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2875,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2878,0.0,1,0,1,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2876,0.0,2,2,0,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2877,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Four Paws,FopFP2880,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Four Paws,FopFP2879,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2881,0.0,2,2,0,1,0,1,Reserve Now
+Yanyunis,dog,Accessories,Kong,KopKG2883,0.0,2,0,2,0,0,0,
+Yanyunis,dog,Accessories,Kong,KopKG2882,0.0,2,2,0,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2891,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2890,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2889,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2898,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2897,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2896,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2895,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2894,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2893,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2902,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2901,0.0,1,0,1,0,0,0,
+LOLAS HOMEMADE,two,Accessories,LOLAS HOMEMADE,LOdLM2900,0.0,1,0,1,0,0,0,
+Sire Veterinario,two,Pharmacy,Brilliant,BrdBL3030,0.0,12,6,6,1,0,1,Available
+Virbac,dog,Food,Virbac,VipVC3031,0.0,2,0,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD3032,0.0,4,3,1,1,0,1,Reserve Now
+Herrera & Elizondo,dog,Food,1st Choice,1spFC3033,5.0,0,0,5,0,0,0,
+Natural pets,dog,Food,Natural Pets,NapNP2861,0.0,9,5,4,4,0,4,Reserve Now
+Madero,dog,Accessories,Vida de Perro,VipVP2903,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2904,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2905,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2906,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2907,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2908,0.0,1,1,0,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2909,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2910,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2911,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2912,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2913,0.0,1,1,0,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2914,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2915,0.0,3,0,3,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2916,0.0,1,1,0,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2917,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2918,0.0,2,1,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2919,0.0,2,0,2,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2920,0.0,3,3,0,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2921,0.0,3,0,3,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2922,0.0,3,1,2,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2923,0.0,6,2,4,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2924,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2925,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2926,0.0,1,0,1,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2927,0.0,9,2,7,0,0,0,
+Madero,dog,Accessories,Vida de Perro,VipVP2928,0.0,6,2,4,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVP2929,0.0,3,0,3,0,0,0,
+Madero,two,Accessories,Vida de Perro,VidVP2930,0.0,3,0,3,0,0,0,
+Madero,dog,Accessories,Mimo,MipMM2931,0.0,2,0,2,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2932,0.0,3,1,2,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2933,0.0,3,1,2,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2934,0.0,3,1,2,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2935,0.0,3,0,3,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2936,0.0,3,2,1,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2937,0.0,3,0,3,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2938,0.0,3,0,3,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2939,0.0,3,0,3,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2940,0.0,3,0,3,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2941,0.0,3,1,2,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2942,0.0,3,2,1,0,0,0,
+Madero,cat,Accessories,Mimo,MigMM2943,0.0,3,0,3,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3034,0.0,3,1,2,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3035,0.0,3,1,2,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3036,0.0,3,0,3,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3037,0.0,3,0,3,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3038,0.0,3,0,3,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3039,0.0,3,2,1,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3040,0.0,3,1,2,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3041,0.0,3,0,3,0,0,0,
+Via Agro,two,Pharmacy,Labyes,LadLY3042,0.0,3,1,2,1,0,1,Available
+NATURAL PETS,dog,Food,Natural Pets,NapNP3043,2.0,21,16,7,5,0,5,Available
+Animal Friend,dog,Food,Natures Logic,NapNL3044,0.0,6,0,6,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3045,0.0,6,0,6,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3046,0.0,6,0,6,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3047,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3048,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3049,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3050,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3051,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3052,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3053,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3054,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3055,0.0,3,0,3,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3056,0.0,3,0,3,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3057,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3058,0.0,2,0,2,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3059,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3060,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3061,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Food,Natures Logic,NapNL3062,0.0,1,0,1,0,0,0,
+Animal Friend,cat,Food,Natures Logic,NagNL3063,0.0,6,0,6,0,0,0,
+Animal Friend,cat,Food,Natures Logic,NagNL3064,0.0,6,0,6,0,0,0,
+Animal Friend,cat,Food,Natures Logic,NagNL3065,0.0,6,0,6,1,0,1,Available
+Animal Friend,dog,Food,Fruitables,FrpFT3066,0.0,2,2,0,0,0,0,
+Animal Friend,dog,Food,Fruitables,FrpFT3067,0.0,2,2,0,1,0,1,Reserve Now
+Animal Friend,dog,Food,Fruitables,FrpFT3068,0.0,2,0,2,0,0,0,
+Animal Friend,cat,Accessories,LickiMat,LigLM3069,0.0,1,1,0,0,0,0,
+Animal Friend,dog,Accessories,LickiMat,LipLM3070,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,LickiMat,LipLM3071,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,LickiMat,LipLM3072,0.0,1,1,0,0,0,0,
+Animal Friend,cat,Accessories,LickiMat,LigLM3073,0.0,1,0,1,0,0,0,
+Animal Friend,dog,Accessories,LickiMat,LipLM3074,0.0,1,0,1,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP3075,0.0,4,1,3,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP3076,0.0,5,0,5,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP3078,0.0,4,0,4,0,0,0,
+Mundo Pet,two,Accessories,MPets,MPdMP3079,0.0,2,0,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD3080,0.0,2,0,2,0,0,0,
+VETIM SA,dog,Food,Science Diet,ScpSD3081,0.0,3,1,2,1,0,1,Available
+VETIM SA,cat,Pharmacy,Nutra Pro,NugNP3082,0.0,30,1,29,1,0,1,Available
+NESTLE,dog,Food,Dog Chow,PupCH3083,0.0,6,3,3,1,0,1,Available
+Monteco,dog,Pharmacy,Cani-Tabs,CaPCT2819,0.0,6,2,4,0,0,0,
+Herrera & Elizondo,two,Pharmacy,Unimedical,UndUN3085,0.0,20,0,20,0,0,0,
+Vets & Pets,dog,Food,N&D,NDpND3086,0.0,5,4,1,1,0,1,Reserve Now
+Vets & Pets,cat,Food,N&D,NDgND3087,0.0,6,2,4,0,0,0,
+Virbac,dog,Food,Virbac,VIpVC3088,0.0,2,2,0,0,0,0,
+NATURAL PETS,dog,Food,Natural Pets,NapNP3089,0.0,7,3,4,2,0,2,Available
+Virbac,dog,Food,Virbac,VIpVC3090,0.0,2,0,2,0,0,0,
+Pharmamatik,two,Pharmacy,BiOrganics,BidBO3091,2.0,0,2,0,0,0,0,
+Pharmamatik,two,Pharmacy,BiOrganics,BidBO3092,0.0,0,0,0,0,0,0,
+Pharmamatik,two,Pharmacy,BiOrganics,BidBO3093,0.0,0,0,0,0,0,0,
+PethijosLTD,two,Food,DOK Appetit,DOdDK3094,0.0,6,0,6,0,0,0,
+PethijosLTD,two,Food,DOK Appetit,DOdDK3095,0.0,6,1,5,0,0,0,
+Animal Friend,two,Accessories,Ruffwear,RudRW3096,0.0,3,0,3,0,0,0,
+Animal Friend,two,Accessories,Ruffwear,RudRW3097,0.0,2,0,2,0,0,0,
+Animal Friend,two,Accessories,Zooneee,ZodZN3098,0.0,3,5,-2,0,0,0,
+DogHood,dog,Accessories,ZeeDog,ZepZD3099,0.0,1,1,0,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD3100,0.0,2,1,1,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD3101,0.0,2,2,0,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3102,0.0,4,0,4,0,0,0,
+Suplidora Royal,cat,Accessories,Cat It,CagCI3103,0.0,2,1,1,0,0,0,
+Suplidora Royal,cat,Accessories,Cat It,CagCI3104,0.0,2,0,2,0,0,0,
+Suplidora Royal,cat,Accessories,Cat It,CagCI3105,0.0,3,0,3,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3106,0.0,6,0,6,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3107,0.0,6,0,6,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3108,0.0,4,0,4,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3109,0.0,3,0,3,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3110,0.0,3,0,3,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3111,0.0,3,0,3,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3112,0.0,9,0,9,0,0,0,
+Suplidora Royal,cat,Food,Cat It,CagCI3113,0.0,9,0,9,0,0,0,
+Alcames,dog,Pharmacy,Brouwer,BrpBW3114,0.0,0,0,0,0,0,0,
+Alcames,dog,Pharmacy,Brouwer,BrpBW3115,0.0,0,0,0,0,0,0,
+EASA,dog,Accessories,Dogzilla,DopDZ3116,0.0,3,0,3,0,0,0,
+EASA,dog,Accessories,Dogzilla,DopDZ3117,0.0,3,0,3,0,0,0,
+EASA,dog,Accessories,Dogzilla,DopDZ3118,0.0,3,0,3,0,0,0,
+EASA,dog,Accessories,Dogzilla,DopDZ3119,0.0,3,0,3,0,0,0,
+EASA,dog,Accessories,Dogzilla,DopDZ3120,0.0,3,0,3,0,0,0,
+EASA,dog,Accessories,Mutti Nation,MupMN3121,0.0,3,0,3,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD3122,0.0,2,0,2,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD3123,0.0,11,4,7,0,0,0,
+VETIM SA,cat,Food,Science Diet,ScgSD3124,0.0,2,1,1,2,0,2,Reserve Now
+VETIM SA,cat,Food,Science Diet,ScgSD3125,0.0,2,0,2,0,0,0,
+virbac,two,Pharmacy,Virbac,VidVC3126,0.0,0,0,0,0,0,0,
+virbac,dog,Pharmacy,Virbac,VipVC3127,0.0,0,0,0,0,0,0,
+virbac,dog,Pharmacy,Virbac,VipVC3128,0.0,0,0,0,0,0,0,
+Vets & Pets,cat,Food,N&D,NDgND3129,0.0,0,0,0,0,0,0,
+Vets & Pets,cat,Food,N&D,NDgND3130,0.0,0,0,0,0,0,0,
+nan,,,nan,FegFX3164,0.0,18,2,16,2,0,2,Available
+nan,,,nan,FegFX3165,0.0,13,0,13,0,0,0,
+nan,,,nan,VepVLT2358,1.0,16,16,1,1,0,1,Reserve Now
+nan,,,nan,VepVLT2382,0.0,13,12,1,1,0,1,Reserve Now
+Repagro,dog,Food,MasQPets,MapQP2846,0.0,4,2,2,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2847,0.0,3,0,3,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2848,0.0,4,0,4,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2849,0.0,3,0,3,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2850,0.0,4,1,3,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2851,0.0,3,0,3,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2852,0.0,4,0,4,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2853,0.0,1,0,1,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2854,0.0,4,0,4,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2855,0.0,3,1,2,0,0,0,
+Repagro,dog,Food,MasQPets,MapQP2857,0.0,3,4,-1,0,0,0,
+nan,,,nan,MapQP3133,0.0,0,0,0,0,0,0,
